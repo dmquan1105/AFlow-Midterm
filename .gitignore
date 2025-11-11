@@ -7,3 +7,7 @@ optimized
 *.pyc
 /workspace
 *.json
+test.py
+.vscode
+*.log
+.env
