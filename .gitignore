@@ -5,8 +5,14 @@ data/datasets
 optimized
 */__pycache__
 *.pyc
-/workspace
+# Ignore workspace but allow results.json files
+/workspace/**
+!/workspace/
+!/workspace/**/
+!/workspace/**/results.json
+# Ignore all JSON files except results.json
 *.json
+!results.json
 test.py
 .vscode
 *.log
