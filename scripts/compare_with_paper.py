@@ -89,10 +89,10 @@ def create_comparison_chart(
             colors.append("#3498db")
 
         # Our AFlow
-        if our_results["validation"]:
-            methods.append(f"AFlow\n(Ours-Val)")
-            scores.append(our_results["validation"])
-            colors.append("#2ecc71")
+        # if our_results["validation"]:
+        #     methods.append(f"AFlow\n(Ours-Val)")
+        #     scores.append(our_results["validation"])
+        #     colors.append("#2ecc71")
 
         if our_results["test"]:
             methods.append(f"AFlow\n(Ours-Test)")
