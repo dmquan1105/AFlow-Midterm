@@ -12,17 +12,17 @@ PAPER_RESULTS = {
     "MATH": {
         "baseline": {"CoT": 48.8, "CoT SC": 50.4},
         "aflow": {"validation": 57.0, "test": 56.2},
-        "model": "GPT-4o mini",
+        "model": "GPT-4o-mini",
     },
     "HumanEval": {
         "baseline": {"Direct": 67.0, "CoT": 68.9},
         "aflow": {"validation": 89.0, "test": 87.8},
-        "model": "GPT-4o mini",
+        "model": "GPT-4o-mini",
     },
     "GSM8K": {
         "baseline": {"CoT": 87.1, "Self-Consistency": 92.0},
         "aflow": {"validation": 94.2, "test": 93.8},
-        "model": "GPT-4o mini",
+        "model": "GPT-4o-mini",
     },
 }
 
@@ -78,7 +78,7 @@ def create_comparison_chart(
 
         # Baselines
         for method, score in paper["baseline"].items():
-            methods.append(f"{method}\n(Paper)")
+            methods.append(f"{method}\n(GPT-4o-mini)")
             scores.append(score)
             colors.append("#95a5a6")
 
@@ -111,11 +111,9 @@ def create_comparison_chart(
 
         # Styling
         ax.set_xticks(range(len(methods)))
-        ax.set_xticklabels(methods, fontsize=9, fontweight="bold")
-        ax.set_ylabel("Score (%)", fontsize=12, fontweight="bold")
-        ax.set_title(
-            f'{dataset}\n({paper["model"]} vs DeepSeek)', fontsize=13, fontweight="bold"
-        )
+        ax.set_xticklabels(methods, fontsize=17, fontweight="bold")
+        ax.set_ylabel("Score (%)", fontsize=20, fontweight="bold")
+        ax.set_title(f"{dataset}", fontsize=25, fontweight="bold")
         ax.set_ylim([0, 100])
         ax.grid(axis="y", alpha=0.3, linestyle="--")
 
@@ -129,7 +127,7 @@ def create_comparison_chart(
                 ha="center",
                 va="bottom",
                 fontweight="bold",
-                fontsize=9,
+                fontsize=20,
             )
 
     plt.tight_layout()
