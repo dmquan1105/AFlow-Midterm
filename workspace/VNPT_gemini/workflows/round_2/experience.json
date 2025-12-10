@@ -1,0 +1,7 @@
+{
+    "father node": 1,
+    "modification": "modify prompt to include more specific instructions for solving the problem and outputting the answer in a specific format.",
+    "before": 0.8494623655913979,
+    "after": 0.8924731182795699,
+    "succeed": true
+}

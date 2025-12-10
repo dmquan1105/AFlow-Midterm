@@ -12,6 +12,10 @@ optimized
 !/workspace/**/results.json
 !/workspace/VNPT/workflows/**
 /workspace/VNPT/workflows/**/__pycache__
+!/workspace/VNPT_deepseek/workflows/**
+/workspace/VNPT_deepseek/workflows/**/__pycache__
+!/workspace/VNPT_gemini/workflows/**
+/workspace/VNPT_gemini/workflows/**/__pycache__
 # Ignore all JSON files except results.json
 *.json
 !results.json
@@ -23,3 +27,7 @@ tester.txt
 config/config_temp.yaml
 !/workspace/VNPT/workflows/**/log.json
 !/workspace/VNPT/workflows/**/experience.json
+!/workspace/VNPT_deepseek/workflows/**/log.json
+!/workspace/VNPT_deepseek/workflows/**/experience.json
+!/workspace/VNPT_gemini/workflows/**/log.json
+!/workspace/VNPT_gemini/workflows/**/experience.json
