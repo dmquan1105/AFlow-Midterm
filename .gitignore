@@ -10,6 +10,8 @@ optimized
 !/workspace/
 !/workspace/**/
 !/workspace/**/results.json
+!/workspace/VNPT/workflows/**
+/workspace/VNPT/workflows/**/__pycache__
 # Ignore all JSON files except results.json
 *.json
 !results.json
@@ -18,3 +20,6 @@ test.py
 *.log
 .env
 tester.txt
+config/config_temp.yaml
+!/workspace/VNPT/workflows/**/log.json
+!/workspace/VNPT/workflows/**/experience.json

@@ -1,0 +1,7 @@
+{
+    "father node": 2,
+    "modification": "Added ScEnsemble operator to implement self-consistency by generating multiple reasoning paths and selecting the most frequent final answer. Modified the workflow to generate 3 reasoning paths, extract answers from each, and use ensemble voting.",
+    "before": 0.0,
+    "after": 0.0,
+    "succeed": false
+}

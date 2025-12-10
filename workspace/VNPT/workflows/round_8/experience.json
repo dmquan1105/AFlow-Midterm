@@ -1,0 +1,7 @@
+{
+    "father node": 1,
+    "modification": "Add AnswerGenerate operator to create step-by-step reasoning, then use that reasoning as input to the Custom operator for final answer generation with a verification prompt.",
+    "before": 0.8172043010752689,
+    "after": 0.9247311827956989,
+    "succeed": true
+}
