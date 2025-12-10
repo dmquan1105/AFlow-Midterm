@@ -11,6 +11,16 @@ from pathlib import Path
 from typing import Dict, Optional, Any
 import aiohttp
 import json
+from tenacity import (
+    retry,
+    stop_after_delay,
+    wait_exponential,
+    retry_if_exception_type,
+    before_sleep_log
+)
+import logging
+
+logger = logging.getLogger(__name__)
 
 
 class LLMConfig:
@@ -229,6 +239,13 @@ class VNPTAsyncLLM:
             # Default to large model
             self.endpoint = f"{config.base_url}/v1/chat/completions/vnptai-hackathon-large"
     
+    @retry(
+        stop=stop_after_delay(3800),  # Max delay 3800 seconds
+        wait=wait_exponential(multiplier=1, min=4, max=60),  # Exponential backoff: 4s, 8s, 16s, 32s, 60s, 60s...
+        retry=retry_if_exception_type((aiohttp.ClientError, Exception)),
+        before_sleep=before_sleep_log(logger, logging.WARNING),
+        reraise=True
+    )
     async def __call__(self, prompt):
         """Call VNPT API with the given prompt"""
         message = []
