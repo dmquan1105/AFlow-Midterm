@@ -100,7 +100,7 @@ def parse_args():
     parser.add_argument(
         "--opt_model_name",
         type=str,
-        default="vnpt-llm-large",
+        default="vnpt-llm-small",
         help="Specifies the name of the model used for optimization tasks.",
     )
     parser.add_argument(
