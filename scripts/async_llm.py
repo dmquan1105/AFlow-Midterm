@@ -9,6 +9,8 @@ from scripts.formatter import BaseFormatter, FormatError
 import yaml
 from pathlib import Path
 from typing import Dict, Optional, Any
+import aiohttp
+import json
 
 
 class LLMConfig:
@@ -18,6 +20,11 @@ class LLMConfig:
         self.key = config.get("key", None)
         self.base_url = config.get("base_url", "https://oneapi.deepwisdom.ai/v1")
         self.top_p = config.get("top_p", 1)
+        # VNPT specific fields
+        self.api_type = config.get("api_type", "openai")
+        self.authorization = config.get("authorization", None)
+        self.token_id = config.get("token_id", None)
+        self.token_key = config.get("token_key", None)
 
 
 class LLMsConfig:
@@ -70,15 +77,29 @@ class LLMsConfig:
             raise ValueError(f"Configuration for {llm_name} not found")
 
         config = self.configs[llm_name]
+        
+        # Get api_type to determine how to map fields
+        api_type = config.get("api_type", "openai")
 
         # Create a config dictionary with the expected keys for LLMConfig
         llm_config = {
             "model": llm_name,  # Use the key as the model name
             "temperature": config.get("temperature", 1),
-            "key": config.get("api_key"),  # Map api_key to key
             "base_url": config.get("base_url", "https://oneapi.deepwisdom.ai/v1"),
-            "top_p": config.get("top_p", 1),  # Add top_p parameter
+            "top_p": config.get("top_p", 1),
+            "api_type": api_type,
         }
+        
+        # Handle different API types
+        if api_type == "vnpt":
+            # VNPT uses authorization, token_id, token_key instead of api_key
+            llm_config["authorization"] = config.get("authorization")
+            llm_config["token_id"] = config.get("token_id")
+            llm_config["token_key"] = config.get("token_key")
+            llm_config["key"] = None  # VNPT doesn't use api_key
+        else:
+            # OpenAI, Gemini, etc. use api_key
+            llm_config["key"] = config.get("api_key")
 
         # Create and return an LLMConfig instance with the specified configuration
         return LLMConfig(llm_config)
@@ -112,6 +133,9 @@ class ModelPricing:
             "output": 0.00042,
         },  # $0.28/$0.42 per 1M tokens
         "deepseek-reasoner": {"input": 0.00028, "output": 0.00042},  # Same pricing
+        "vnpt-llm-large": {"input": 0, "output": 0},
+        "vnpt-llm-small": {"input": 0, "output": 0},
+        "vnpt-llm-embedding": {"input": 0, "output": 0},
     }
 
     @classmethod
@@ -178,6 +202,126 @@ class TokenUsageTracker:
         }
 
 
+class VNPTAsyncLLM:
+    """Async LLM client specifically for VNPT API"""
+    
+    def __init__(self, config, system_msg: str = None):
+        """
+        Initialize the VNPTAsyncLLM with a configuration
+        
+        Args:
+            config: LLMConfig instance with VNPT-specific fields
+            system_msg: Optional system message to include in all prompts
+        """
+        self.config = config
+        self.sys_msg = system_msg
+        self.usage_tracker = TokenUsageTracker()
+        
+        # VNPT API endpoint - dựa trên model name để xác định endpoint
+        model_name = config.model.lower()
+        if "large" in model_name:
+            self.endpoint = f"{config.base_url}/v1/chat/completions/vnptai-hackathon-large"
+        elif "small" in model_name:
+            self.endpoint = f"{config.base_url}/v1/chat/completions/vnptai-hackathon-small"
+        elif "embedding" in model_name:
+            self.endpoint = f"{config.base_url}/vnptai-hackathon-embedding"
+        else:
+            # Default to large model
+            self.endpoint = f"{config.base_url}/v1/chat/completions/vnptai-hackathon-large"
+    
+    async def __call__(self, prompt):
+        """Call VNPT API with the given prompt"""
+        message = []
+        if self.sys_msg is not None:
+            message.append({"content": self.sys_msg, "role": "system"})
+        
+        message.append({"role": "user", "content": prompt})
+        
+        headers = {
+            "Authorization": self.config.authorization,
+            "Token-id": self.config.token_id,
+            "Token-key": self.config.token_key,
+            "Content-Type": "application/json"
+        }
+        
+        payload = {
+            "messages": message,
+            "temperature": self.config.temperature,
+            "top_p": self.config.top_p,
+        }
+        
+        async with aiohttp.ClientSession() as session:
+            async with session.post(
+                self.endpoint,
+                headers=headers,
+                json=payload
+            ) as response:
+                if response.status != 200:
+                    error_text = await response.text()
+                    raise Exception(f"VNPT API error: {response.status} - {error_text}")
+                
+                result = await response.json()
+                
+                # Extract response content
+                if "choices" in result and len(result["choices"]) > 0:
+                    ret = result["choices"][0]["message"]["content"]
+                else:
+                    raise Exception(f"Unexpected VNPT API response format: {result}")
+                
+                # Track token usage if available in response
+                input_tokens = result.get("usage", {}).get("prompt_tokens", 0)
+                output_tokens = result.get("usage", {}).get("completion_tokens", 0)
+                
+                if input_tokens > 0 or output_tokens > 0:
+                    usage_record = self.usage_tracker.add_usage(
+                        self.config.model, input_tokens, output_tokens
+                    )
+                    
+                    print(ret)
+                    print(
+                        f"Token usage: {input_tokens} input + {output_tokens} output = {input_tokens + output_tokens} total"
+                    )
+                    print(
+                        f"Cost: ${usage_record['total_cost']:.6f} (${usage_record['input_cost']:.6f} for input, ${usage_record['output_cost']:.6f} for output)"
+                    )
+                else:
+                    print(ret)
+                
+                return ret
+    
+    async def call_with_format(self, prompt: str, formatter: BaseFormatter):
+        """
+        Call the LLM with a prompt and format the response using the provided formatter
+        
+        Args:
+            prompt: The prompt to send to the LLM
+            formatter: An instance of a BaseFormatter to validate and parse the response
+            
+        Returns:
+            The formatted response data
+            
+        Raises:
+            FormatError: If the response doesn't match the expected format
+        """
+        # Prepare the prompt with formatting instructions
+        formatted_prompt = formatter.prepare_prompt(prompt)
+        # Call the LLM
+        response = await self.__call__(formatted_prompt)
+        
+        # Validate and parse the response
+        is_valid, parsed_data = formatter.validate_response(response)
+        
+        if not is_valid:
+            error_message = formatter.format_error_message()
+            raise FormatError(f"{error_message}. Raw response: {response}")
+        
+        return parsed_data
+    
+    def get_usage_summary(self):
+        """Get a summary of token usage and costs"""
+        return self.usage_tracker.get_summary()
+
+
 class AsyncLLM:
     def __init__(self, config, system_msg: str = None):
         """
@@ -195,9 +339,15 @@ class AsyncLLM:
 
         # At this point, config should be an LLMConfig instance
         self.config = config
-        self.aclient = AsyncOpenAI(
-            api_key=self.config.key, base_url=self.config.base_url
-        )
+        
+        # Only initialize AsyncOpenAI for non-VNPT APIs
+        if config.api_type != "vnpt":
+            self.aclient = AsyncOpenAI(
+                api_key=self.config.key, base_url=self.config.base_url
+            )
+        else:
+            self.aclient = None  # VNPT will use its own client
+            
         self.sys_msg = system_msg
         self.usage_tracker = TokenUsageTracker()
 
@@ -279,21 +429,31 @@ def create_llm_instance(llm_config):
                             or a string representing the LLM name to look up in default config
 
     Returns:
-        An instance of AsyncLLM configured according to the provided parameters
+        An instance of AsyncLLM or VNPTAsyncLLM configured according to the provided parameters
     """
     # Case 1: llm_config is already an LLMConfig instance
     if isinstance(llm_config, LLMConfig):
-        return AsyncLLM(llm_config)
+        if llm_config.api_type == "vnpt":
+            return VNPTAsyncLLM(llm_config)
+        else:
+            return AsyncLLM(llm_config)
 
     # Case 2: llm_config is a string (LLM name)
     elif isinstance(llm_config, str):
-        return AsyncLLM(llm_config)  # AsyncLLM constructor handles lookup
+        config = LLMsConfig.default().get(llm_config)
+        if config.api_type == "vnpt":
+            return VNPTAsyncLLM(config)
+        else:
+            return AsyncLLM(config)
 
     # Case 3: llm_config is a dictionary
     elif isinstance(llm_config, dict):
         # Create an LLMConfig instance from the dictionary
-        llm_config = LLMConfig(llm_config)
-        return AsyncLLM(llm_config)
+        config = LLMConfig(llm_config)
+        if config.api_type == "vnpt":
+            return VNPTAsyncLLM(config)
+        else:
+            return AsyncLLM(config)
 
     else:
         raise TypeError(

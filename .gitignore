@@ -25,6 +25,7 @@ test.py
 .env
 tester.txt
 config/config_temp.yaml
+config/API_VNPT.pdf
 !/workspace/VNPT/workflows/**/log.json
 !/workspace/VNPT/workflows/**/experience.json
 !/workspace/VNPT_deepseek/workflows/**/log.json
