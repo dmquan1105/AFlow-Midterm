@@ -6,6 +6,7 @@ from scripts.async_llm import create_llm_instance
 
 from scripts.evaluator import DatasetType
 
+```python
 class Workflow:
     def __init__(
         self,
@@ -17,18 +18,28 @@ class Workflow:
         self.dataset = dataset
         self.llm = create_llm_instance(llm_config)
         self.custom = operator.Custom(self.llm)
+        self.answer_generate = operator.AnswerGenerate(self.llm)
 
     async def __call__(self, problem: str):
         """
         Implementation of the workflow
         """
-        solutions = []
-        for _ in range(5):  # Generate 5 responses
-            solution = await self.custom(input=problem, instruction=prompt_custom.XXX_PROMPT)
-            solutions.append(solution['response'])
+        # Tiền xử lý đầu vào
+        context = f"Vấn đề: {problem}\nNgữ cảnh: {self.dataset.context}"
         
-        # Select the most frequent response
-        from collections import Counter
-        most_common_response = Counter(solutions).most_common(1)[0][0]
+        # Gọi custom nhiều lần với các hướng dẫn khác nhau
+        responses = []
+        for i in range(3):  # Số lần gọi có thể điều chỉnh
+            instruction = f"Hướng dẫn {i+1}: {prompt_custom.XXX_PROMPT}"
+            response = await self.custom(input=context, instruction=instruction)
+            responses.append(response['response'])
         
-        return most_common_response, self.llm.get_usage_summary()["total_cost"]
+        # Kết hợp kết quả
+        combined_response = "\n".join(responses)
+        
+        # Sử dụng AnswerGenerate để tạo ra quá trình suy nghĩ từng bước
+        step_by_step = await self.answer_generate(input=combined_response)
+        
+        # Trả về câu trả lời cuối cùng và tổng chi phí
+        return step_by_step['answer'], self.llm.get_usage_summary()["total_cost"]
+```

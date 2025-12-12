@@ -23,64 +23,12 @@ IV. Ở Việt Nam
 
 Khỉ còn là vật thí nghiệm để sản xuất thuốc ở Việt Nam. Đảo khỉ ở Việt Nam là hòn đảo độc nhất vô nhị ở Việt Nam, nơi đây đã và đang nuôi dưỡng hàng ngàn con khỉ trong điều kiện bán hoang dã để phục vụ cho những thí nghiệm khoa học, sản xuất vaccin và nhiều sinh phẩm y tế phục vụ cho sự nghiệp cứu người chúng đang được nuôi rất nhiều ở đảo Rều thuộc Quảng Ninh với số lượng hơn 1.000 cá thể khỉ vàng được nuôi trên đảo Rều phục vụ sản xuất văcxin và các công trình nghiên cứu y học. Đây là những chú khỉ được nuôi để sản xuất văcxin bại liệt và phục vụ nhiều công trình nghiên cứu y học.
 Năm 1962, đảo Rều được Bộ Y tế đầu tư thành trại nuôi khỉ để nghiên cứu y học phục vụ sản xuất các loại văcxin phòng bại liệt, viêm gan A, thuốc phòng chống virút H5N1. Người ta dùng tế bào thận của loài khỉ vàng để điều chế các loại văcxin giúp khống chế nhiều bệnh tật truyền nhiễm nguy hiểm. Nhiều thế hệ khỉ đã góp công lớn cho sự nghiệp nghiên cứu, phát triển y học Việt Nam. Nhờ sự cống hiến của giống khỉ vàng, dịch bệnh bại liệt tại Việt Nam đã bị đẩy lùi. Khỉ vàng là nguồn nguyên liệu đầu để sản xuất hàng chục triệu liều văcxin bại liệt mỗi năm, góp phần vào việc thanh toán hoàn toàn bệnh bại liệt tại Việt Nam vào những năm 2000.
-Câu hỏi: Loài khỉ nào được sử dụng phổ biến nhất trong sản xuất vắc-xin bại liệt và các loại vắc-xin phòng virus H5N1 ở Việt Nam?","Unexpected VNPT API response format: {'dataSign': 'CbYKYHAuHVag3PK4OTem337CrIpGRU+RYUDaoT+HkmjSV1pbqjPludhcy1QJ4oltAtGNme7PCIA+MY7jDvx5iA==', 'dataBase64': 'eyJlcnJvciI6eyJjb2RlIjo0MDAsInBhcmFtIjpudWxsLCJtZXNzYWdlIjoiWGluIGzhu5dpLCBWTlBUIExMTSBoaeG7h24gdOG6oWkga2jDtG5nIHRo4buDIHRy4bqjIGzhu51pIGPDonUgaOG7j2kgY+G7p2EgYuG6oW4gduG7gSBjw6FjIHbhuqVuIMSR4buBIHRyw6puLiBWdWkgbMOybmcgaMOjeSDEkeG6t3QgY8OidSBo4buPaSBs4buLY2ggc+G7sSwgYW4gdG/DoG4sIHBow7kgaOG7o3AgduG7m2kgdGh14bqnbiBwaG9uZyBt4bu5IHThu6VjIGPhu6dhIFZp4buHdCBOYW0uIiwidHlwZSI6IkJhZFJlcXVlc3RFcnJvciJ9LCJjaGFsbGVuZ2VDb2RlIjoiMTExMTEifQ==', 'logID': 'cd79a96d-d5d8-11f0-afe5-e9eb5299c486-6b8fd75c-Zuulserver', 'error': {'code': 400, 'param': None, 'message': 'Xin lỗi, VNPT LLM hiện tại không thể trả lời câu hỏi của bạn về các vấn đề trên. Vui lòng hãy đặt câu hỏi lịch sự, an toàn, phù hợp với thuần phong mỹ tục của Việt Nam.', 'type': 'BadRequestError'}, 'challengeCode': '11111'}",B,0.0,0.0
-Ngôi chùa Ba La Mật được khai dựng vào năm nào?,Đáp án là A,A,1.0,0.0
-"Việc đưa ra các quy định về thuế, pháp luật đã tác động đến lĩnh vực:",Đáp án: B,B,1.0,0.0
-"Một cửa hàng tạp hóa địa phương đã tăng giá một món đồ ăn vặt phổ biến từ 2,00 đô la lên 2,50 đô la, và lượng cầu giảm từ 100 đơn vị xuống 80 đơn vị. Sử dụng công thức trung điểm, hãy xác định độ co giãn của cầu theo giá đối với món đồ ăn vặt này?","Để tính độ co giãn của cầu theo giá, chúng ta sử dụng công thức trung điểm như sau:
-
-Độ co giãn của cầu theo giá = ((ΔQ / Q_trung bình) / (ΔP / P_trung bình))
-
-trong đó:
-- ΔQ là sự thay đổi về lượng cầu (số đơn vị)
-- Q_trung bình là trung bình của lượng cầu ban đầu và cuối cùng
-- ΔP là sự thay đổi về giá
-- P_trung bình là trung bình của giá ban đầu và cuối cùng
-
-Từ dữ liệu cho sẵn:
-- Giá ban đầu (P1) = 2,00 đô la
-- Giá cuối cùng (P2) = 2,50 đô la
-- Lượng cầu ban đầu (Q1) = 100 đơn vị
-- Lượng cầu cuối cùng (Q2) = 80 đơn vị
-
-Tính toán các giá trị cần thiết:
-- ΔP = P2 - P1 = 2,50 - 2,00 = 0,50 đô la
-- P_trung bình = (P1 + P2) / 2 = (2,00 + 2,50) / 2 = 2,25 đô la
-- ΔQ = Q2 - Q1 = 80 - 100 = -20 đơn vị
-- Q_trung bình = (Q1 + Q2) / 2 = (100 + 80) / 2 = 90 đơn vị
-
-Áp dụng công thức:
-Độ co giãn của cầu theo giá = ((-20 / 90) / (0,50 / 2,25)) = (-20/90) * (2,25/0,50) = -0,2222 * 4,5 = -1,0
-
-Vậy, độ co giãn của cầu theo giá đối với món đồ ăn vặt này là -1,0.
-
-Đáp án: B. -1,0",B,1.0,0.0
-"Điện trở tương đương khi hai điện trở, R1 và R2, được mắc song song là gì?","Đáp án đúng là C. (R1 * R2) / (R1 + R2)
-
-Khi hai điện trở R1 và R2 được mắc song song, điện trở tương đương (Rtđ) được tính theo công thức:
-
-1/Rtđ = 1/R1 + 1/R2
-
-Để tìm Rtđ, ta có thể biến đổi công thức trên như sau:
-
-Rtđ = 1 / (1/R1 + 1/R2)
-
-Rtđ = 1 / ((R2 + R1) / (R1 * R2))
-
-Rtđ = (R1 * R2) / (R1 + R2)
-
-Vậy, điện trở tương đương khi hai điện trở R1 và R2 được mắc song song là (R1 * R2) / (R1 + R2).
-
-Đáp án: C. (R1 * R2) / (R1 + R2)",C,1.0,0.0
-Bạn nên làm gì khi bắt tay?,"Câu trả lời đúng: C. Giao tiếp bằng mắt và mỉm cười
-
-Khi bắt tay, giao tiếp bằng mắt và mỉm cười là những hành động quan trọng để thể hiện sự tự tin, thân thiện và tôn trọng đối với người khác. Điều này giúp tạo ấn tượng tốt đẹp và xây dựng mối quan hệ tích cực.
-
-Giải thích:
-
-* Nhìn đi hướng khác (A) hoặc nhìn xuống đất (B) có thể được hiểu là thiếu tự tin hoặc không quan tâm đến người khác.
-* Nhìn xung quanh theo mọi hướng (D) có thể được hiểu là thiếu tập trung hoặc không quan tâm đến cuộc trò chuyện.
-
-Vì vậy, giao tiếp bằng mắt và mỉm cười là lựa chọn tốt nhất khi bắt tay.",C,1.0,0.0
+Câu hỏi: Loài khỉ nào được sử dụng phổ biến nhất trong sản xuất vắc-xin bại liệt và các loại vắc-xin phòng virus H5N1 ở Việt Nam?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',B,0.0,0.0
+Ngôi chùa Ba La Mật được khai dựng vào năm nào?,module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',A,0.0,0.0
+"Việc đưa ra các quy định về thuế, pháp luật đã tác động đến lĩnh vực:",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',B,0.0,0.0
+"Một cửa hàng tạp hóa địa phương đã tăng giá một món đồ ăn vặt phổ biến từ 2,00 đô la lên 2,50 đô la, và lượng cầu giảm từ 100 đơn vị xuống 80 đơn vị. Sử dụng công thức trung điểm, hãy xác định độ co giãn của cầu theo giá đối với món đồ ăn vặt này?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',B,0.0,0.0
+"Điện trở tương đương khi hai điện trở, R1 và R2, được mắc song song là gì?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',C,0.0,0.0
+Bạn nên làm gì khi bắt tay?,module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',C,0.0,0.0
 "Đoạn thông tin:
 -- Đoạn văn 1 --
 Tiêu đề: Hà Thành đầu độc - Phản ứng của nhà cầm quyền Đông Pháp. Xử tử.
@@ -101,10 +49,8 @@ Nội dung: Ngày 20 tháng 2 năm 1930, Nguyễn Thái Học bị bắt tại l
 -- Đoạn văn 5 --
 Tiêu đề: Nguyễn Thái Học - Hoạt động cách mạng. Đền nợ nước.
 Nội dung: Pháp thành lập một Hội đồng Đề hình để xử các nghĩa quân VNQDĐ. Rất nhiều đảng viên VNQDĐ bị chung thân khổ sai, một số tự sát và bị hành hình như: - Ngày 11 tháng 2 năm 1930, Nguyễn Khắc Nhu đập đầu tự sát trong ngục thất ở Hưng Hóa. - Ngày 8 tháng 3 năm 1930, Đặng Văn Lương, Đặng Văn Tiệp, Nguyễn Thanh Thuyết, Ngô Hải Hoằng bị xử chém tại Yên Bái. - Ngày 17 tháng 6 năm 1930, Nguyễn Thái Học và 12 đồng chí bị xử chém tại Yên Bái. - Ngày 18 tháng 6 năm 1930, Nguyễn Thị Giang (Cô Giang) dùng súng tự sát ở gốc cây đề làng Thổ Tang, tỉnh Vĩnh Yên nay là tỉnh Vĩnh Phúc. - Ngày 7 tháng 9 năm 1930, Đỗ Thị Tâm nuốt giải yếm tự sát trong ngục thất ở Hà Nội. - Ngày 22 tháng 11 năm 1930, Nguyễn Văn Toại và 4 đồng chí bị xử chém tại Phú Thọ. - Tháng 12 năm 1930, Đoàn Trần Nghiệp, hay Đặng Trần Nghiệp, tức Ký Con, và 6 đồng chí là Lương Ngọc Tốn, Nguyễn Văn Nho, Nguyễn Quang Triều, Nguyễn Minh Luân, Nguyễn Trọng Bằng, Phạm Văn Khuê bị xử chém tại trước cổng nhà tù Hỏa Lò tại Hà Nội. - Ngày 23 tháng 6 năm 1931, Trần Quang Diệu, Vũ Văn Giáo, Trần Nhật Đồng và một số đồng chí bị xử chém tại Hải Dương. - Ngày 23 tháng 6 năm 1931, Lê Hữu Cảnh bị hành hình trước cổng ngục thất Hỏa Lò Hà Nội. - Năm 1936, Nguyễn Đức Trạch tức Sư Trạch, tự sát tại ngục thất ở Guyane thuộc Pháp. Sau khi hành quyết một số lãnh tụ và nghĩa quân của VNQDĐ tại Yên Bái, Pháp cho chôn chung một mộ tại thị xã Yên Bái, cách ga xe lửa độ một cây số, và cho lính canh giữ đến cuối năm 1930. Năm 1945, quân đội VNQDĐ chiếm đóng Yên Bái, cho trùng tu mộ phần của 17 vị anh hùng và lập đền thờ kỷ niệm. Khu mộ này sau được nhà nước Việt Nam trùng tu và xếp hạng di tích lịch sử văn hóa tại Quyết định số 177 VH/QĐ ngày 5/3/1990.
-Câu hỏi: Nhân vật nào dưới đây đã bị xử chém cùng 12 đồng chí vào ngày 17 tháng 6 năm 1930 tại pháp trường Yên Bái?","Unexpected VNPT API response format: {'dataSign': 'CbYKYHAuHVag3PK4OTem337CrIpGRU+RYUDaoT+HkmjSV1pbqjPludhcy1QJ4oltAtGNme7PCIA+MY7jDvx5iA==', 'dataBase64': 'eyJlcnJvciI6eyJjb2RlIjo0MDAsInBhcmFtIjpudWxsLCJtZXNzYWdlIjoiWGluIGzhu5dpLCBWTlBUIExMTSBoaeG7h24gdOG6oWkga2jDtG5nIHRo4buDIHRy4bqjIGzhu51pIGPDonUgaOG7j2kgY+G7p2EgYuG6oW4gduG7gSBjw6FjIHbhuqVuIMSR4buBIHRyw6puLiBWdWkgbMOybmcgaMOjeSDEkeG6t3QgY8OidSBo4buPaSBs4buLY2ggc+G7sSwgYW4gdG/DoG4sIHBow7kgaOG7o3AgduG7m2kgdGh14bqnbiBwaG9uZyBt4bu5IHThu6VjIGPhu6dhIFZp4buHdCBOYW0uIiwidHlwZSI6IkJhZFJlcXVlc3RFcnJvciJ9LCJjaGFsbGVuZ2VDb2RlIjoiMTExMTEifQ==', 'logID': 'cdba353a-d5d8-11f0-9149-c7e34a561a78-518dc78a-Zuulserver', 'error': {'code': 400, 'param': None, 'message': 'Xin lỗi, VNPT LLM hiện tại không thể trả lời câu hỏi của bạn về các vấn đề trên. Vui lòng hãy đặt câu hỏi lịch sự, an toàn, phù hợp với thuần phong mỹ tục của Việt Nam.', 'type': 'BadRequestError'}, 'challengeCode': '11111'}",B,0.0,0.0
-Giả sử một chủ doanh nghiệp tư nhân vay nợ cá nhân. Câu nào sau đây là đúng về khoản nợ này?,"Đáp án là B. Chủ doanh nghiệp tư nhân phải chịu trách nhiệm cá nhân đối với khoản nợ.
-
-Giải thích: Doanh nghiệp tư nhân là loại hình doanh nghiệp chỉ có một chủ sở hữu, không được phát hành bất kỳ loại chứng khoán nào để huy động vốn từ bên ngoài. Chủ doanh nghiệp tư nhân phải chịu trách nhiệm bằng toàn bộ tài sản của mình đối với mọi hoạt động của doanh nghiệp. Do đó, khi vay nợ cá nhân, chủ doanh nghiệp tư nhân phải chịu trách nhiệm cá nhân đối với khoản nợ này.",B,1.0,0.0
+Câu hỏi: Nhân vật nào dưới đây đã bị xử chém cùng 12 đồng chí vào ngày 17 tháng 6 năm 1930 tại pháp trường Yên Bái?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',B,0.0,0.0
+Giả sử một chủ doanh nghiệp tư nhân vay nợ cá nhân. Câu nào sau đây là đúng về khoản nợ này?,module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',B,0.0,0.0
 "Đoạn thông tin:
 François Mitterrand
 Với sự chú trọng tới các chính sách văn hoá và xã hội, Mitterrand đã bãi bỏ hình phạt tử hình ngay khi lên nhậm chức (thông qua Đạo luật Badinter), cũng như ""Đạo luật anti-casseurs"" quy định việc quy trách nhiệm cho các hành động bạo lực trong các cuộc biểu tình. Ông cũng giải tán Cour de sûreté, một toà án cấp cao đặc biệt và thực hiện việc pháp chế hoá hàng loạt cho người nhập cư bất hợp pháp. Mitterrand đã thông qua những bộ luật phi tập trung đầu tiên (Đạo luật Defferre) và tự do hoá truyền thông, lập ra CSA cơ quan quản lý truyền thông, và cho phép đài truyền thanh tư nhân và kênh truyền hình tư nhân đầu tiên (Canal+), khiến lĩnh vực phát thanh truyền hình tư nhân phát triển. Năm 1983, Mitterrand trở thành một công dân danh dự của Belgrade.
@@ -123,9 +69,7 @@ Cuối năm 1942, vùng không bị chiếm đóng bị người Đức chiếm.
 
 François Mitterrand - Scandal và những tranh cãi về thời kỳ cầm quyền của Mitterrand. Nghe trộm điện thoại.
 'Vụ việc' cuối cùng chấm dứt trước Toà trừng phạt Paris với phán quyết của toà ngày 9 tháng 11 năm 2005. 7 thành viên của đơn vị chống khủng bố của tổng thống bị kết án và Mitterrand bị coi là ""người thành lập và kiểm soát hầu hết chiến dịch."". Phán quyết của toà cho thấy Mitterrand muốn giữ kín các chi tiết của đời sống cá nhân trước công chúng, như sự tồn tại của người con gái ngoài hôn nhân Mazarine Pingeot (với tác gia Jean-Edern Hallier, đang bị đe doạ tiết lộ), bệnh ung thư tuyến tiền liệt của ông được chẩn đoán năm 1981 và các chi tiết quá khứ của ông thời Chế độ Vichy vẫn chưa được công chúng biết tới. Toà án phán quyết rằng một số người đã bị nghe trộm điện thoại với các lý do ""không rõ ràng"", như người bạn của Carole Bouquet, một luật sư có gia đình ở Trung Đông, Edwy Plenel, một nhà báo của tờ "" le Monde"" người theo dõi câu chuyện ""Rainbow Warrior""và luật sư Antoine Comte. Toà tuyên bố rằng "" Les faits avaient été commis sur ordre soit du président de la République, soit des ministres de la Défense successifs qui ont mis à la disposition de (Christian Prouteau) tous les moyens de l'État afin de les exécuter (những hành động đó được thực hiện theo lệnh từ Tổng thống Pháp hay từ các Bộ trưởng Quốc phòng những ngươờ đã cho phép Christian Prouteau tiếp cận không hạn chế với các thiết bị của nhà nước để ông ta có thể thực hiện mệnh lệnh)"" Toà án nói rằng Mitterrand là người chủ mưu chính của vụ nghe trộm (l'inspirateur et le décideur de l'essentiel) và rằng ông đã ra lệnh một số vụ và làm ngơ một số vụ khác và rằng không một cuộc băng nào trong số 3000 cuộn băng do đơn vị này thu được thực hiện một cách hợp pháp.
-Câu hỏi: Theo phán quyết của tòa án năm 2005, vai trò chính của François Mitterrand trong vụ nghe trộm điện thoại là gì?","B. Người khởi xướng và ra quyết định chính (l'inspirateur et le décideur de l'essentiel).
-
-Theo phán quyết của tòa án năm 2005, François Mitterrand được coi là ""người thành lập và kiểm soát hầu hết chiến dịch"" nghe trộm điện thoại. Tòa án cũng tuyên bố rằng Mitterrand là người chủ mưu chính của vụ nghe trộm (l'inspirateur et le décideur de l'essentiel), và rằng ông đã ra lệnh một số vụ và làm ngơ một số vụ khác. Điều này cho thấy vai trò chính của Mitterrand trong vụ nghe trộm điện thoại là người khởi xướng và ra quyết định chính.",B,1.0,0.0
+Câu hỏi: Theo phán quyết của tòa án năm 2005, vai trò chính của François Mitterrand trong vụ nghe trộm điện thoại là gì?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',B,0.0,0.0
 "Đoạn thông tin:
 Tiêu đề: Thú bơi lội
 Nội dung: Thú thủy hợp (hay còn gọi là thú bơi lội hay còn gọi là thú thủy sinh hay động vật có vú sống dưới nước hay thú thích nước) là tên gọi chỉ về một nhóm động vật có vú (lớp thú) khác nhau sống một phần hoặc toàn bộ trong các vùng nước. Chúng bao gồm các loài thú biển khác nhau sống trong các đại dương, cũng như các loài thú sống ở các vùng nước ngọt khác nhau, chẳng hạn như rái cá châu Âu, hải ly. Động vật có vú sống ở nước mặn của biển và đại dương cũng như ở sông hồ nước ngọt.
@@ -150,7 +94,7 @@ III. Thực trạng
 
 Động vật có vú thủy sinh là mục tiêu cho ngành công nghiệp thương mại, dẫn đến sự suy giảm mạnh mẽ của tất cả các quần thể loài bị khai thác, chẳng hạn như các loại hải ly. Những chiếc áo khoác lông của chúng, phù hợp để bảo tồn nhiệt, đã được đưa ra trong quá trình buôn bán lông thú và được làm thành áo khoác và mũ. Các loài động vật có vú khác như loài tê giác Ấn Độ, là mục tiêu săn bắn thể thao và có sự sụt giảm dân số mạnh vào những năm 1900. Sau khi việc săn bắn nó đã được coi là bất hợp pháp, nhiều động vật có vú thủy hợp đã trở thành đối tượng bị săn trộm.
 Khác với việc săn bắn, động vật có vú dưới nước có thể bị giết chết như là đánh bắt cá, nơi chúng bị vướng vào lưới cố định và bị chết đuối hoặc chết đói. Việc tăng lưu lượng sông, đặc biệt là ở sông Dương Tử, gây ra sự va chạm giữa các tàu biển nhanh và động vật có vú dưới nước, và làm tràn các con sông có thể dẫn tới các động vật có vú đang di cư ở các khu vực không thích hợp hoặc phá hủy môi trường sống thượng nguồn. Việc công nghiệp hoá các con sông đã dẫn đến sự tuyệt chủng của cá heo sông Trung Quốc, với sự chứng kiến ​​cuối cùng vào năm 2004. Ngoài ra một lượng lớn các loài thú biển cũng bị săn bắt trầm trọng.
-Câu hỏi: Nhóm động vật nào sau đây có mức độ phụ thuộc hoàn toàn vào môi trường thủy sinh và không thể sống trên cạn?",A. Lợn biển (Manatee) và cá heo sông Amazon,A,1.0,0.0
+Câu hỏi: Nhóm động vật nào sau đây có mức độ phụ thuộc hoàn toàn vào môi trường thủy sinh và không thể sống trên cạn?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',A,0.0,0.0
 "Đoạn thông tin:
 [1] Tiêu đề: Cuba
 Nội dung: II. Chính trị
@@ -182,22 +126,10 @@ V. Xã hội
 
 Về lịch sử, Cuba luôn có tỷ lệ giáo dục và biết chữ cao nhất Mỹ Latinh, cả trước và sau thời kỳ cách mạng. Giáo dục là miễn phí đối với mọi công dân Cuba gồm cả giáo dục đại học. Các định chế giáo dục tư nhân không được phép hoạt động. Phổ cập giáo dục áp dụng với mọi đứa trẻ từ sáu tuổi tới hết mức giáo dục cấp hai căn bản (thường là 15 tuổi) và tất cả học sinh, không cần biết giới tính và sắc tộc, đều mặc đồng phục của trường với màu sắc thể hiện cấp học. Trong suốt quá trình học, học sinh không phải trả một khoản phí nào, từ tiền may đồng phục, tiền mua sắm sách vở, giấy bút và còn được nuôi ăn một bữa hoặc cả ngày (tùy theo từng trường). Do vậy, gần như không có một trẻ em Cuba nào bị thất học, dù đó là ở nơi nông thôn xa xôi.
 Giáo dục tiểu học kéo dài sáu năm, giáo dục trung học cơ sở được chia thành mức căn bản và tiền đại học. Giáo dục cao học được tiến hành tại các trường đại học, các viện, các viện sư phạm và các viện bách khoa. Đại học La Habana được thành lập năm 1728 và có một số trường cao đẳng cũng như đại học khác. Bộ Giáo dục Cao học Cuba cũng điều hành chương trình Giáo dục Từ xa mở các lớp buổi chiều và buổi tối tại các vùng nông thôn cho các lao động nông nghiệp. Giáo dục được đề cao cả về mặt chính trị và ý thức hệ, và sinh viên bậc cao học được chờ đợi sẽ là người thực hiện các mục tiêu do chính phủ Cuba đề ra.
-Câu hỏi: Theo ngữ cảnh, nhận định nào sau đây chính xác về vai trò của Confederación de Trabajadores Cubanos (CTC) trong chính trị Cuba?","Câu trả lời đúng: A. CTC là công cụ để chính phủ kiểm soát công đoàn và chỉ định lãnh đạo.
-
-Giải thích: Theo đoạn thông tin, ""Những người ủng hộ cho rằng CTC cho phép công nhân chuyển ý kiến lên chính phủ; những người đối lập lại cho rằng chính phủ sử dụng nó để kiểm soát các công đoàn thương mại và chỉ định các thành viên lãnh đạo công đoàn."" Điều này cho thấy CTC có vai trò quan trọng trong việc kiểm soát và chỉ định lãnh đạo công đoàn, phù hợp với lựa chọn A.",B,0.0,0.0
-"Một sợi dây có chiều dài $ L $ và mật độ khối lượng tuyến tính $ \mu $ được giữ cố định ở cả hai đầu và chịu lực căng $ T $. Sợi dây được kích thích dao động sao cho tạo ra một sóng dừng với $ n $ nút (bao gồm cả các đầu mút). Nếu lực căng của sợi dây được tăng lên gấp 4 lần, tần số cơ bản $ f_1 $ của sợi dây thay đổi như thế nào?","Đáp án là B. $ f_1 $ tăng gấp đôi.
-
-Giải thích: Tần số cơ bản của sóng dừng trên sợi dây được xác định bởi công thức:
-
-$$f_1 = \frac{1}{2L}\sqrt{\frac{T}{\mu}}$$
-
-Nếu lực căng $T$ được tăng lên gấp 4 lần, thì tần số cơ bản mới $f'_1$ sẽ là:
-
-$$f'_1 = \frac{1}{2L}\sqrt{\frac{4T}{\mu}} = 2 \cdot \frac{1}{2L}\sqrt{\frac{T}{\mu}} = 2f_1$$
-
-Vậy, tần số cơ bản $f_1$ tăng gấp đôi khi lực căng của sợi dây được tăng lên gấp 4 lần.",B,1.0,0.0
-Khẳng định nào là đúng về chú thích trong Python?,Đáp án là D. Tất cả các đáp án trên.,D,1.0,0.0
-"Trong thủ tục nhập quốc tịch Việt Nam, giấy tờ nào sau đây là bắt buộc để chứng minh người xin nhập tịch không sử dụng quốc tịch nước ngoài gây phương hại đến an ninh và lợi ích quốc gia?",Câu trả lời đúng: A,A,1.0,0.0
+Câu hỏi: Theo ngữ cảnh, nhận định nào sau đây chính xác về vai trò của Confederación de Trabajadores Cubanos (CTC) trong chính trị Cuba?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',B,0.0,0.0
+"Một sợi dây có chiều dài $ L $ và mật độ khối lượng tuyến tính $ \mu $ được giữ cố định ở cả hai đầu và chịu lực căng $ T $. Sợi dây được kích thích dao động sao cho tạo ra một sóng dừng với $ n $ nút (bao gồm cả các đầu mút). Nếu lực căng của sợi dây được tăng lên gấp 4 lần, tần số cơ bản $ f_1 $ của sợi dây thay đổi như thế nào?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',B,0.0,0.0
+Khẳng định nào là đúng về chú thích trong Python?,module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',D,0.0,0.0
+"Trong thủ tục nhập quốc tịch Việt Nam, giấy tờ nào sau đây là bắt buộc để chứng minh người xin nhập tịch không sử dụng quốc tịch nước ngoài gây phương hại đến an ninh và lợi ích quốc gia?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',A,0.0,0.0
 "Đoạn thông tin:
 -- Đoạn văn 1 --
 Tiêu đề:
@@ -222,46 +154,14 @@ Nội dung: Sau khi Đức thua trận, Hoa Kỳ muốn giúp đỡ về kinh t�
 -- Đoạn văn 6 --
 Tiêu đề: Cách mạng 1989 - Bối cảnh. Áp lực từ phương Tây.
 Nội dung: Sau thế chiến thứ II, mặc dù là nước thắng trận nhưng Liên bang Xô Viết (gọi tắt là Liên Xô) bị thiệt hại nặng nề về người và của, đặc biệt là vấp phải sự chống phá của các phe đối lập nói chung và các nước tư bản nói riêng. Các nước tư bản đứng đầu là Mỹ, thực hiện chiến lược ""toàn cầu chống XHCN"" bằng những hành động cô lập kinh tế-chính trị, cũng từ đây thế giới bước vào thời kì ""chiến tranh lạnh. Mỹ đưa ra lệnh ""cấm vận"" đối với Liên Xô, khiến tình hình nước này đã khó khăn nay càng trở nên khó khăn hơn. Bên cạnh đó, Mỹ thành lập ""Khối Bắc Đại Tây Dương"" (gọi tắt là NATO) để bao vây chính trị, tạo thế lực đồng minh chống XHCN. Để thoát khỏi áp lực nặng nề đó, Liên Bang Xô Viết đã thành lập ""Khối quân sự Warszawa"", tạo đối trọng với NATO và thành lập ""Hội đồng tương trợ kinh tế"" nhằm giải quyết tình trạng cô lập kinh tế của các nước phương Tây và Mỹ.
-Câu hỏi: Theo các đoạn văn, sự kiện nào xảy ra trước và tạo tiền đề cho việc thành lập Khối Warszawa của Liên Xô?","Câu trả lời đúng: A. Hoa Kỳ từ bỏ chính sách không liên minh quân sự trong thời bình vào năm 1949 và thành lập NATO.
-
-Giải thích: 
-- Đoạn văn 1: ""Việc thành lập NATO lại dẫn đến việc các nước cộng sản thành lập khối Warszawa để làm đối trọng.""
-- Đoạn văn 2: ""Năm 1949, Hoa Kỳ từ bỏ chính sách lâu đời không liên minh quân sự trong thời bình khi đứng ra thành lập liên minh Tổ chức Hiệp ước Bắc Đại Tây Dương (gọi tắt là NATO). Để đối phó, Liên Xô thành lập Khối Warszawa gồm các quốc gia cộng sản.""
-- Đoạn văn 3: ""Hoa Kỳ và Tây Âu... thành lập liên minh NATO như một sự phòng vệ chống lại một cuộc xâm lược có thể diễn ra từ Liên bang Xô Viết. Sau này, Liên bang Xô viết và Đông Âu... thành lập Khối hiệp ước Warszawa như một sự phòng vệ chống lại một cuộc xâm lược có thể diễn ra từ Hoa Kỳ.""
-- Đoạn văn 4: ""Vào năm 1949, Hoa Kỳ, Canada và các đồng minh châu Âu đã thành lập Tổ chức Hiệp ước Bắc Đại Tây Dương (NATO)... Để đáp trả NATO, Liên Xô năm 1955 đã liên kết quyền lực giữa các nước thuộc Khối Đông dưới một liên minh có tên là Khối Warszawa...""
-- Đoạn văn 5: ""Hoa Kỳ và các đồng minh Tây Âu muốn thắt chặt mối quan hệ với nhau và cản trở Liên Xô. Nỗ lực tiêu biểu nhất là việc thành lập NATO, về cơ bản là một thỏa thuận quân sự. Liên Xô đáp trả bằng việc lập Khối Warszawa, với kết quả tương tự như Khối phía Đông.""
-- Đoạn văn 6: ""Mỹ thành lập 'Khối Bắc Đại Tây Dương' (gọi tắt là NATO) để bao vây chính trị, tạo thế lực đồng minh chống XHCN. Để thoát khỏi áp lực nặng nề đó, Liên Bang Xô Viết đã thành lập 'Khối quân sự Warszawa', tạo đối trọng với NATO...""
-
-Tất cả các đoạn văn đều chỉ ra rằng việc thành lập NATO của Hoa Kỳ và các đồng minh Tây Âu là sự kiện xảy ra trước và tạo tiền đề cho việc thành lập Khối Warszawa của Liên Xô.",A,1.0,0.0
+Câu hỏi: Theo các đoạn văn, sự kiện nào xảy ra trước và tạo tiền đề cho việc thành lập Khối Warszawa của Liên Xô?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',A,0.0,0.0
 "Trong một thí nghiệm phân tán hạt, tiết diện vi phân $ \frac{d\sigma}{d\Omega} $ cho sự phân tán vào một góc khối $ d\Omega $ được cho bởi công thức Rutherford:
 $$
 \frac{d\sigma}{d\Omega} = \left( \frac{Z_1 Z_2 e^2}{4 \pi \epsilon_0 E} \right)^2 \frac{1}{\sin^4(\theta/2)}
 $$
-Nếu số nguyên tử $ Z_1 $ của hạt tới được gấp đôi trong khi tất cả các tham số khác không đổi, thì tiết diện vi phân tại một góc cố định $ \theta $ thay đổi theo nhân tử nào?","Để tìm hiểu xem tiết diện vi phân thay đổi như thế nào khi số nguyên tử $ Z_1 $ của hạt tới được gấp đôi, chúng ta cần xem xét công thức Rutherford:
-
-$$
-\frac{d\sigma}{d\Omega} = \left( \frac{Z_1 Z_2 e^2}{4 \pi \epsilon_0 E} \right)^2 \frac{1}{\sin^4(\theta/2)}
-$$
-
-Khi $ Z_1 $ được gấp đôi, công thức trở thành:
-
-$$
-\frac{d\sigma'}{d\Omega} = \left( \frac{2Z_1 Z_2 e^2}{4 \pi \epsilon_0 E} \right)^2 \frac{1}{\sin^4(\theta/2)}
-$$
-
-So sánh hai công thức, chúng ta thấy rằng:
-
-$$
-\frac{d\sigma'}{d\Omega} = 4 \cdot \frac{d\sigma}{d\Omega}
-$$
-
-Vậy, tiết diện vi phân tại một góc cố định $ \theta $ tăng lên 4 lần khi số nguyên tử $ Z_1 $ của hạt tới được gấp đôi.
-
-Đáp án đúng: B. 4",B,1.0,0.0
-Nước Cộng hòa xã hội chủ nghĩa Việt Nam là một hệ thống bao gồm tập hợp các cơ quan:,"D. Cả ba phương án còn lại đều đúng
-
-Giải thích: Nước Cộng hòa xã hội chủ nghĩa Việt Nam là một hệ thống bao gồm tập hợp các cơ quan: Cơ quan quyền lực Nhà nước, Cơ quan hành chính Nhà nước, Cơ quan kiểm sát và xét xử.",D,1.0,0.0
-Tính khách quan của chân lý thể hiện ở chỗ nào?,"Đáp án là D. Tính khách quan của chân lý thể hiện ở chỗ nó phù hợp với hiện thực khách quan và không lệ thuộc vào ý thức của con người. Chân lý là nhận thức đúng đắn về thế giới khách quan, phản ánh trung thực bản chất và quy luật của sự vật, hiện tượng. Do đó, tính khách quan của chân lý thể hiện ở chỗ nó phù hợp với hiện thực khách quan và không lệ thuộc vào ý thức của con người.",D,1.0,0.0
+Nếu số nguyên tử $ Z_1 $ của hạt tới được gấp đôi trong khi tất cả các tham số khác không đổi, thì tiết diện vi phân tại một góc cố định $ \theta $ thay đổi theo nhân tử nào?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',B,0.0,0.0
+Nước Cộng hòa xã hội chủ nghĩa Việt Nam là một hệ thống bao gồm tập hợp các cơ quan:,module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',D,0.0,0.0
+Tính khách quan của chân lý thể hiện ở chỗ nào?,module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',D,0.0,0.0
 "Đoạn thông tin:
 -- Document 1 --
 Title: Assume Form
@@ -286,158 +186,19 @@ Content: Các ca khúc lấy mẫu - ""Assume Form"" sử dụng một đoạn n
 -- Document 6 --
 Title: Assume Form
 Content: Đĩa đơn mở đường cho album ""Don't Miss It"" được phát hành vào ngày 4 tháng 6 năm 2018. Hai đĩa đơn kế tiếp, ""Mile High"" và ""Lullaby for My Insomniac"", được phát hành vào tháng 1 năm 2019. Sau khi phát hành, ""Assume Form"" được các nhà phê bình khen ngợi về âm thanh phấn khởi, những cảm nhận lãng mạn và về công đoạn sản xuất. Album được đề cử ở hạng mục Album nhạc alternative xuất sắc nhất tại Giải Grammy lần thứ 62.
-Câu hỏi: Theo nội dung các tài liệu, điều gì được nhấn mạnh là điểm khác biệt chính giữa album 'Assume Form' và album trước đó 'The Colour In Anything' của James Blake?","B. 'Assume Form' mang âm hưởng lạc quan và phấn khởi, trái ngược với phong cách 'hoàn toàn buồn bã chán nản' của 'The Colour In Anything'.",B,1.0,0.0
-"Một hạt đang chuyển động với tốc độ $0.6c$, trong đó $c$ là tốc độ ánh sáng. Động lượng tương đối $p$ của hạt là bao nhiêu nếu khối lượng nghỉ của nó là $m_0$?","Động lượng tương đối của hạt được tính bằng công thức:
-
-$$p = \frac{m_0v}{\sqrt{1-\frac{v^2}{c^2}}}$$
-
-Thay $v = 0.6c$ vào công thức trên, ta có:
-
-$$p = \frac{m_0(0.6c)}{\sqrt{1-\frac{(0.6c)^2}{c^2}}} = \frac{0.6m_0c}{\sqrt{1-0.36}} = \frac{0.6m_0c}{\sqrt{0.64}} = \frac{0.6m_0c}{0.8} = 0.75m_0c$$
-
-Vậy động lượng tương đối của hạt là $0.75m_0c$.
-
-Đáp án cần chọn là: C. $0.75m_0c$",C,1.0,0.0
-Câu hỏi nào sau đây là phát biểu chính xác về toàn cầu hóa và tác động của nó đến các nước phát triển?,"Đáp án đúng: D
-
-Toàn cầu hóa mang lại nhiều cơ hội cho các nước phát triển, bao gồm:
-
-- Mở rộng thị trường: Toàn cầu hóa giúp các nước phát triển tiếp cận với thị trường mới, tăng cường xuất khẩu và mở rộng hoạt động kinh doanh.
-- Tăng cường đầu tư: Toàn cầu hóa thu hút đầu tư trực tiếp nước ngoài (FDI) vào các nước phát triển, giúp tăng cường năng lực sản xuất và cạnh tranh.
-- Cải thiện hiệu suất: Toàn cầu hóa thúc đẩy cạnh tranh, dẫn đến cải thiện hiệu suất và chất lượng sản phẩm/dịch vụ.
-- Tăng cường hợp tác quốc tế: Toàn cầu hóa tạo điều kiện cho hợp tác quốc tế, trao đổi công nghệ và tri thức.
-
-Tuy nhiên, toàn cầu hóa cũng có thể mang lại thách thức cho các nước phát triển, chẳng hạn như:
-
-- Cạnh tranh gay gắt: Toàn cầu hóa làm tăng cạnh tranh từ các nước đang phát triển, có thể ảnh hưởng đến một số ngành công nghiệp truyền thống.
-- Thay đổi cấu trúc lao động: Toàn cầu hóa có thể dẫn đến thay đổi cấu trúc lao động, với sự chuyển dịch từ lao động chân tay sang lao động trí óc.
-
-Nhìn chung, toàn cầu hóa mang lại nhiều cơ hội cho các nước phát triển, nhưng cũng đòi hỏi sự thích nghi và đổi mới để tận dụng những cơ hội này.",D,1.0,0.0
-"Theo cách nào thì việc làm theo nguyên tắc ""employment at will"" liên quan đến các khiếu nại về sa thải sai trái?","D. Các khiếu nại về sa thải sai trái cung cấp các ngoại lệ cho nguyên tắc ""employment at will""
-
-Giải thích: Nguyên tắc ""employment at will"" cho phép cả người lao động và người sử dụng lao động chấm dứt hợp đồng lao động bất cứ lúc nào mà không cần lý do. Tuy nhiên, trong thực tế, có những trường hợp sa thải sai trái, chẳng hạn như sa thải vì lý do phân biệt đối xử, trả thù, hoặc vi phạm các quyền cơ bản của người lao động. Trong những trường hợp này, các khiếu nại về sa thải sai trái cung cấp các ngoại lệ cho nguyên tắc ""employment at will"", giúp bảo vệ quyền lợi của người lao động và đảm bảo rằng họ không bị sa thải một cách bất công.",D,1.0,0.0
-"Trong một phân tích tài chính, Emily nhận thấy rằng một công ty có tỷ số hiện hành là 1,5. Cô cũng nhận thấy rằng các khoản nợ ngắn hạn của công ty là 30.000 đô la. Để đánh giá thêm về tính thanh khoản của công ty, cô muốn tính toán vốn lưu động. Vốn lưu động của công ty là bao nhiêu?","Để tính toán vốn lưu động, chúng ta cần biết cả tài sản lưu động và nợ ngắn hạn. Tuy nhiên, trong trường hợp này, chúng ta chỉ biết tỷ số hiện hành và nợ ngắn hạn.
-
-Tỷ số hiện hành (Current Ratio) được tính bằng cách chia tài sản lưu động cho nợ ngắn hạn. Công thức như sau:
-
-Tỷ số hiện hành = Tài sản lưu động / Nợ ngắn hạn
-
-Chúng ta đã biết tỷ số hiện hành là 1,5 và nợ ngắn hạn là 30.000 đô la. Vì vậy, chúng ta có thể sắp xếp lại công thức để tìm tài sản lưu động:
-
-Tài sản lưu động = Tỷ số hiện hành * Nợ ngắn hạn
-= 1,5 * 30.000
-= 45.000 đô la
-
-Vốn lưu động (Working Capital) được tính bằng cách trừ nợ ngắn hạn khỏi tài sản lưu động:
-
-Vốn lưu động = Tài sản lưu động - Nợ ngắn hạn
-= 45.000 - 30.000
-= 15.000 đô la
-
-Vậy, vốn lưu động của công ty là 15.000 đô la.
-
-Đáp án: A. 15.000 đô la",A,1.0,0.0
-Xét hàm số $ h(x) = x^4 - 4x^3 + 6x^2 - 4x + 1 $. Giả sử $ k(x) $ là đạo hàm bậc hai của $ h(x) $. Hàm số $ h(x) $ có bao nhiêu điểm uốn?,"Để tìm số điểm uốn của hàm số $h(x)$, ta cần tìm đạo hàm bậc hai $k(x)$ và xác định số nghiệm thực của phương trình $k(x) = 0$.
-
-Ta có:
-
-$h(x) = x^4 - 4x^3 + 6x^2 - 4x + 1$
-
-Đạo hàm bậc nhất của $h(x)$ là:
-
-$h'(x) = 4x^3 - 12x^2 + 12x - 4$
-
-Đạo hàm bậc hai của $h(x)$ là:
-
-$k(x) = h''(x) = 12x^2 - 24x + 12$
-
-Để tìm số điểm uốn, ta cần giải phương trình $k(x) = 0$:
-
-$12x^2 - 24x + 12 = 0$
-
-Chia cả hai vế cho 12, ta được:
-
-$x^2 - 2x + 1 = 0$
-
-$(x - 1)^2 = 0$
-
-Vậy $x = 1$ là nghiệm kép của phương trình $k(x) = 0$. Do đó, hàm số $h(x)$ có 1 điểm uốn.
-
-Đáp án là B.",A,0.0,0.0
-Công thức hoá học của oxit có thành phần phần trăm của S là 40%:,"Để tìm công thức hóa học của oxit có thành phần phần trăm của S là 40%, ta cần thực hiện các bước sau:
-
-1. Giả sử công thức của oxit là SxOy.
-
-2. Tính khối lượng mol của S và O trong công thức SxOy:
-   - Khối lượng mol của S là 32 g/mol.
-   - Khối lượng mol của O là 16 g/mol.
-
-3. Tính tổng khối lượng mol của SxOy:
-   - Tổng khối lượng mol = x * 32 + y * 16
-
-4. Sử dụng thông tin về thành phần phần trăm của S để thiết lập phương trình:
-   - Thành phần phần trăm của S = (Khối lượng mol của S / Tổng khối lượng mol) * 100%
-   - 40% = (x * 32 / (x * 32 + y * 16)) * 100%
-
-5. Giải phương trình để tìm tỷ lệ x:y:
-   - 0,4 = x * 32 / (x * 32 + y * 16)
-   - 0,4(x * 32 + y * 16) = x * 32
-   - 12,8x + 6,4y = 32x
-   - 6,4y = 19,2x
-   - y/x = 19,2/6,4 = 3
-
-6. Từ tỷ lệ x:y = 1:3, ta có thể viết công thức hóa học của oxit là SO3.
-
-Vậy, đáp án đúng là B. SO3.",B,1.0,0.0
-"Một máy bay không người lái đang bay ở độ cao không đổi và được sử dụng để đo khoảng cách đến một điểm trên mặt đất. Nếu máy bay không người lái đang bay ở độ cao 100 mét và khoảng cách ngang đến điểm trên mặt đất là 150 mét, thì khoảng cách thẳng từ máy bay không người lái đến điểm trên mặt đất là bao nhiêu?","Để tính khoảng cách thẳng từ máy bay không người lái đến điểm trên mặt đất, ta có thể sử dụng định lý Pythagore. Định lý này cho biết rằng trong một tam giác vuông, bình phương của chiều dài cạnh huyền (cạnh đối diện với góc vuông) bằng tổng bình phương của chiều dài hai cạnh còn lại.
-
-Trong trường hợp này, ta có:
-
-- Độ cao của máy bay không người lái so với mặt đất: 100 mét
-- Khoảng cách ngang từ máy bay không người lái đến điểm trên mặt đất: 150 mét
-
-Áp dụng định lý Pythagore, ta có:
-
-Khoảng cách thẳng = √(độ cao^2 + khoảng cách ngang^2)
-= √(100^2 + 150^2)
-= √(10000 + 22500)
-= √32500
-≈ 180,28 mét
-
-Vậy khoảng cách thẳng từ máy bay không người lái đến điểm trên mặt đất là khoảng 180,28 mét.
-
-Đáp án đúng: B. 180,28 mét",B,1.0,0.0
-Một hạt chuyển động dọc theo trục y với vị trí của nó được cho bởi hàm số $ y(t) = t^4 - 8t^3 + 18t^2 - 10 $. Ở thời điểm $ t $ nào thì hạt đạt được gia tốc nhỏ nhất trong khoảng $ 0 \leq t \leq 5 $?,"Để tìm thời điểm mà hạt đạt được gia tốc nhỏ nhất, ta cần tìm đạo hàm cấp hai của hàm số $y(t)$ và sau đó tìm giá trị nhỏ nhất của đạo hàm cấp hai này trong khoảng $0 \leq t \leq 5$.
-
-Đạo hàm cấp một của $y(t)$ là:
-
-$$y'(t) = 4t^3 - 24t^2 + 36t$$
-
-Đạo hàm cấp hai của $y(t)$ là:
-
-$$y''(t) = 12t^2 - 48t + 36$$
-
-Để tìm giá trị nhỏ nhất của $y''(t)$, ta có thể viết lại nó dưới dạng:
-
-$$y''(t) = 12(t^2 - 4t + 3) = 12((t-2)^2 - 1)$$
-
-Từ đây, ta thấy rằng $y''(t)$ đạt giá trị nhỏ nhất khi $(t-2)^2$ đạt giá trị nhỏ nhất, tức là khi $t = 2$.
-
-Vậy, thời điểm mà hạt đạt được gia tốc nhỏ nhất là $t = 2$.
-
-Đáp án: C. $t = 2$",C,1.0,0.0
-"Nếu một doanh nghiệp có chi phí biến đổi trung bình là 15 đô la và chi phí biên là 20 đô la, thì tác động đến chi phí biến đổi trung bình sẽ như thế nào nếu lượng sản phẩm đầu ra tăng thêm một đơn vị?","Đáp án là B. Chi phí biến đổi trung bình sẽ tăng.
-
-Giải thích: Khi lượng sản phẩm đầu ra tăng thêm một đơn vị, chi phí biến đổi tổng cộng sẽ tăng lên do chi phí biên là 20 đô la cho mỗi đơn vị sản xuất thêm. Vì chi phí biến đổi trung bình là tổng chi phí biến đổi chia cho số lượng sản phẩm, nên khi tổng chi phí biến đổi tăng mà số lượng sản phẩm chỉ tăng một đơn vị, chi phí biến đổi trung bình sẽ tăng lên.",B,1.0,0.0
-"Theo thông tin được cung cấp, tỉnh nào sau đây đã được sáp nhập vào tỉnh Gia Lai để hình thành tỉnh Gia Lai hiện tại?",Đáp án là B,A,0.0,0.0
-"Trong phong trào chính trị quốc tế, đảng cánh Tả được coi là đảng có xu hướng",Câu trả lời đúng: B,B,1.0,0.0
-Khí nhà kính nào chiếm khoảng một nửa khối lượng khí nhà kính?,"Đáp án là C. Điôxít Cacbon (CO2)
-
-Giải thích: Điôxít cacbon (CO2) là khí nhà kính phổ biến nhất trong bầu khí quyển của Trái Đất. Nó chiếm khoảng một nửa khối lượng khí nhà kính và đóng vai trò quan trọng trong việc điều chỉnh nhiệt độ toàn cầu thông qua hiệu ứng nhà kính.
-
-Mêtan (CH4), ôzôn đối lưu (O3) và ôxít nitơ (N2O) cũng là các khí nhà kính quan trọng, nhưng chúng không chiếm tỷ lệ lớn như CO2 trong tổng khối lượng khí nhà kính. Mêtan là khí nhà kính mạnh thứ hai sau CO2, nhưng nó chỉ chiếm khoảng 10-20% khối lượng khí nhà kính. Ôzôn đối lưu và ôxít nitơ cũng đóng góp vào hiệu ứng nhà kính, nhưng với tỷ lệ nhỏ hơn nhiều so với CO2 và mêtan.
-
-Vì vậy, đáp án chính xác cho câu hỏi này là C. Điôxít Cacbon (CO2).",C,1.0,0.0
+Câu hỏi: Theo nội dung các tài liệu, điều gì được nhấn mạnh là điểm khác biệt chính giữa album 'Assume Form' và album trước đó 'The Colour In Anything' của James Blake?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',B,0.0,0.0
+"Một hạt đang chuyển động với tốc độ $0.6c$, trong đó $c$ là tốc độ ánh sáng. Động lượng tương đối $p$ của hạt là bao nhiêu nếu khối lượng nghỉ của nó là $m_0$?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',C,0.0,0.0
+Câu hỏi nào sau đây là phát biểu chính xác về toàn cầu hóa và tác động của nó đến các nước phát triển?,module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',D,0.0,0.0
+"Theo cách nào thì việc làm theo nguyên tắc ""employment at will"" liên quan đến các khiếu nại về sa thải sai trái?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',D,0.0,0.0
+"Trong một phân tích tài chính, Emily nhận thấy rằng một công ty có tỷ số hiện hành là 1,5. Cô cũng nhận thấy rằng các khoản nợ ngắn hạn của công ty là 30.000 đô la. Để đánh giá thêm về tính thanh khoản của công ty, cô muốn tính toán vốn lưu động. Vốn lưu động của công ty là bao nhiêu?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',A,0.0,0.0
+Xét hàm số $ h(x) = x^4 - 4x^3 + 6x^2 - 4x + 1 $. Giả sử $ k(x) $ là đạo hàm bậc hai của $ h(x) $. Hàm số $ h(x) $ có bao nhiêu điểm uốn?,module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',A,0.0,0.0
+Công thức hoá học của oxit có thành phần phần trăm của S là 40%:,module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',B,0.0,0.0
+"Một máy bay không người lái đang bay ở độ cao không đổi và được sử dụng để đo khoảng cách đến một điểm trên mặt đất. Nếu máy bay không người lái đang bay ở độ cao 100 mét và khoảng cách ngang đến điểm trên mặt đất là 150 mét, thì khoảng cách thẳng từ máy bay không người lái đến điểm trên mặt đất là bao nhiêu?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',B,0.0,0.0
+Một hạt chuyển động dọc theo trục y với vị trí của nó được cho bởi hàm số $ y(t) = t^4 - 8t^3 + 18t^2 - 10 $. Ở thời điểm $ t $ nào thì hạt đạt được gia tốc nhỏ nhất trong khoảng $ 0 \leq t \leq 5 $?,module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',C,0.0,0.0
+"Nếu một doanh nghiệp có chi phí biến đổi trung bình là 15 đô la và chi phí biên là 20 đô la, thì tác động đến chi phí biến đổi trung bình sẽ như thế nào nếu lượng sản phẩm đầu ra tăng thêm một đơn vị?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',B,0.0,0.0
+"Theo thông tin được cung cấp, tỉnh nào sau đây đã được sáp nhập vào tỉnh Gia Lai để hình thành tỉnh Gia Lai hiện tại?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',A,0.0,0.0
+"Trong phong trào chính trị quốc tế, đảng cánh Tả được coi là đảng có xu hướng",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',B,0.0,0.0
+Khí nhà kính nào chiếm khoảng một nửa khối lượng khí nhà kính?,module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',C,0.0,0.0
 "Đoạn thông tin:
 [1] Tiêu đề: địa điểm giao dịch và thời gian làm việc
 Nội dung: Để tìm thông tin về địa chỉ và thời gian làm việc của Điểm giao dịch VNPT Vinaphone anh chị vui lòng truy cập vào đường link sau: https://vnpt.com.vn/ho-tro/diem-giao-dich
@@ -451,156 +212,19 @@ Nội dung: Để mua sim của Vinaphone, anh/chị vui lòng truy cập link h
 Với sim Ezcom, anh/chị đến các Điểm giao dịch để được hỗ trợ mua sim.
 Địa chỉ điểm giao dịch: https://vnpt.com.vn/ho-tro/diem-giao-dich
 Nếu anh/chị có thắc mắc gì khác, em xin sẵn sàng hỗ trợ ạ.
-Câu hỏi: Theo nội dung được cung cấp, phương thức nào sau đây được hỗ trợ để mua sim Ezcom của Vinaphone?","Câu trả lời đúng: B. Đến trực tiếp các Điểm giao dịch Vinaphone
-
-Theo nội dung được cung cấp, để mua sim Ezcom của Vinaphone, khách hàng cần đến trực tiếp các Điểm giao dịch của Vinaphone để được hỗ trợ mua sim.",B,1.0,0.0
-"Một khối lượng $ m $ được gắn vào một lò xo có hằng số đàn hồi $ k $ và dao động theo phương ngang trên một mặt phẳng không ma sát. Khối lượng ban đầu được kéo lệch một khoảng $ A $ so với vị trí cân bằng và sau đó được thả ra từ trạng thái nghỉ. Đồng thời, một khối lượng giống hệt $ m $ được gắn vào một lò xo thứ hai có cùng hằng số đàn hồi $ k $ và được kéo lệch một khoảng $ A $ nhưng được cung cấp vận tốc ban đầu $ v_0 $ theo hướng dao động. Tỉ số giữa động năng cực đại của khối lượng thứ hai và động năng cực đại của khối lượng thứ nhất là bao nhiêu?",Đáp án là C. $ 1 + \left(\frac{v_0}{\omega A}\right)^2 $,C,1.0,0.0
-Làm thế nào việc mở rộng Medicaid ảnh hưởng đến khả năng tiếp cận dịch vụ chăm sóc dự phòng cho những người có thu nhập thấp?,"Câu trả lời đúng: C
-
-Việc mở rộng Medicaid đã giúp tăng khả năng tiếp cận dịch vụ chăm sóc dự phòng cho những người có thu nhập thấp. Medicaid là chương trình bảo hiểm y tế công cộng của Hoa Kỳ, cung cấp hỗ trợ tài chính cho các cá nhân và gia đình có thu nhập thấp để họ có thể truy cập vào các dịch vụ chăm sóc sức khỏe cơ bản.
-
-Khi Medicaid được mở rộng, nhiều người có thu nhập thấp hơn đã có thể đủ điều kiện tham gia chương trình này, từ đó họ có thể tiếp cận với các dịch vụ chăm sóc dự phòng như kiểm tra sức khỏe định kỳ, tiêm chủng, xét nghiệm sàng lọc bệnh tật, và các dịch vụ khác giúp ngăn ngừa bệnh tật và cải thiện sức khỏe tổng thể.
-
-Mở rộng Medicaid cũng giúp giảm tỷ lệ người dân không có bảo hiểm y tế, đặc biệt là trong số những người có thu nhập thấp. Điều này có nghĩa là họ có thể nhận được chăm sóc y tế mà không phải lo lắng về chi phí, dẫn đến việc họ có thể tiếp cận với các dịch vụ chăm sóc dự phòng một cách dễ dàng hơn.
-
-Tóm lại, việc mở rộng Medicaid đã đóng vai trò quan trọng trong việc tăng cường khả năng tiếp cận dịch vụ chăm sóc dự phòng cho những người có thu nhập thấp, giúp họ duy trì và cải thiện sức khỏe của mình.",C,1.0,0.0
-"Theo quy trình cấp Chứng nhận trường mầm non đạt kiểm định chất lượng giáo dục, thành phần hồ sơ bắt buộc gồm những tài liệu nào?",Câu trả lời đúng: C,B,0.0,0.0
-"Nguyên lý về sự lựa chọn hợp lý phát biểu rằng, bạn sẽ lựa chọn việc sử dụng thu nhập tăng thêm của mình để cho:","Câu trả lời đúng: B
-
-Giải thích: Nguyên lý về sự lựa chọn hợp lý phát biểu rằng, bạn sẽ lựa chọn việc sử dụng thu nhập tăng thêm của mình để cho độ thỏa dụng biên trên mỗi đồng là lớn nhất. Điều này có nghĩa là bạn sẽ phân bổ thu nhập của mình vào các hàng hóa và dịch vụ sao cho độ thỏa dụng biên (độ thỏa mãn thêm) trên mỗi đồng tiền là tối đa. Đây là nguyên tắc cơ bản trong lý thuyết tiêu dùng, giúp người tiêu dùng đạt được mức độ thỏa mãn cao nhất từ thu nhập của mình.",B,1.0,0.0
-Nhiệm vụ nào sau đây KHÔNG thuộc khoa học xã hội?,"Câu trả lời đúng: C. Nghiên cứu công thức hóa học của các hợp chất
-
-Giải thích: Khoa học xã hội là lĩnh vực nghiên cứu về hành vi, xã hội, và tương tác của con người. Các nhiệm vụ như phát triển lý thuyết mới về hành vi con người, tìm hiểu và xác nhận các lý thuyết xã hội, khuyến khích phát triển hài hòa về xã hội và tâm lý đều thuộc phạm vi của khoa học xã hội.
-
-Tuy nhiên, nghiên cứu công thức hóa học của các hợp chất lại thuộc lĩnh vực khoa học tự nhiên, cụ thể là hóa học. Đây không phải là nhiệm vụ thuộc khoa học xã hội.",C,1.0,0.0
-"Một chất phóng xạ phân rã theo phương trình vi phân $ \frac{dA}{dt} = -kA $, trong đó $ A $ là lượng chất và $ k $ là một hằng số. Nếu lượng ban đầu là 500 gam và nó giảm xuống còn 250 gam sau 4 năm, thì lượng còn lại sau 8 năm là bao nhiêu?","Để giải quyết vấn đề này, chúng ta cần sử dụng phương trình vi phân đã cho và thông tin về lượng chất ban đầu cũng như lượng chất sau 4 năm để tìm hằng số $k$. Sau đó, chúng ta sẽ sử dụng giá trị của $k$ để tìm lượng chất còn lại sau 8 năm.
-
-Phương trình vi phân đã cho là:
-
-$$\frac{dA}{dt} = -kA$$
-
-Đây là một phương trình vi phân tách biến, và giải pháp chung của nó là:
-
-$$A(t) = A_0 e^{-kt}$$
-
-trong đó $A_0$ là lượng chất ban đầu.
-
-Chúng ta biết rằng lượng chất ban đầu là 500 gam, nên $A_0 = 500$.
-
-Sau 4 năm, lượng chất giảm xuống còn 250 gam, nên chúng ta có thể viết:
-
-$$250 = 500 e^{-4k}$$
-
-Giải phương trình này cho $k$, chúng ta có:
-
-$$e^{-4k} = \frac{1}{2}$$
-
-$$-4k = \ln \frac{1}{2}$$
-
-$$k = -\frac{\ln \frac{1}{2}}{4} = \frac{\ln 2}{4}$$
-
-Bây giờ, chúng ta có thể sử dụng giá trị của $k$ để tìm lượng chất còn lại sau 8 năm:
-
-$$A(8) = 500 e^{-8k} = 500 e^{-8 \cdot \frac{\ln 2}{4}} = 500 e^{-2 \ln 2} = 500 \cdot \frac{1}{4} = 125$$
-
-Vậy, lượng chất còn lại sau 8 năm là 125 gam.
-
-Đáp án đúng là B. 125 gam.",B,1.0,0.0
-Nguyễn Ái Quốc đã mở nhiều lớp huấn luyện đào tạo cán bộ cho cách mạng Việt Nam ở đâu,"B. Quảng Châu (Trung Quốc)
-
-Giải thích: Tháng 11/1924, Nguyễn Ái Quốc rời Moskva về Quảng Châu (Trung Quốc) để trực tiếp lãnh đạo phong trào cách mạng trong nước. Tại đây, ông đã mở nhiều lớp huấn luyện đào tạo cán bộ cho cách mạng Việt Nam. Các lớp học này đóng vai trò quan trọng trong việc bồi dưỡng kiến thức, kỹ năng và tinh thần cách mạng cho các cán bộ, góp phần vào sự phát triển của phong trào đấu tranh giành độc lập cho Việt Nam.",B,1.0,0.0
-"Một nhà nghiên cứu đang kiểm định giả thuyết không $ H_0: \mu = 50 $ đối với giả thuyết thay thế $ H_1: \mu > 50 $ bằng cách sử dụng một mẫu có kích thước $ n = 36 $ từ một quần thể có phân phối chuẩn với phương sai chưa biết. Giá trị trung bình mẫu là $ \bar{x} = 53 $ và độ lệch chuẩn mẫu là $ s = 6 $. Trong số các phát biểu sau, phát biểu nào là đúng về giá trị thống kê t?","Để tính giá trị thống kê t, chúng ta sử dụng công thức:
-
-t = (x̄ - μ) / (s / √n)
-
-trong đó:
-- x̄ là giá trị trung bình mẫu,
-- μ là giá trị trung bình của quần thể dưới giả thuyết không,
-- s là độ lệch chuẩn mẫu,
-- n là kích thước mẫu.
-
-Thay số vào công thức trên, ta có:
-
-t = (53 - 50) / (6 / √36)
-= 3 / (6 / 6)
-= 3 / 1
-= 3
-
-Vì giá trị thống kê t là 3, nên nó nằm trong khoảng từ 2,5 đến 3, nhưng vì không có lựa chọn nào cho khoảng từ 2,5 đến 3, nên lựa chọn gần nhất là E. Giá trị thống kê t lớn hơn 2,5.
-
-Đáp án cuối cùng là E.",E,1.0,0.0
-"Theo quan điểm của Chủ Tịch Hồ Chí Minh, con đường giải phóng dân tộc hướng tới mục tiêu nào?","Câu trả lời đúng: C. Một xã hội bình đẳng, công bằng, không có áp bức bóc lột
-
-Giải thích: Theo quan điểm của Chủ tịch Hồ Chí Minh, con đường giải phóng dân tộc hướng tới mục tiêu xây dựng một xã hội bình đẳng, công bằng, không có áp bức bóc lột. Đây là tư tưởng chỉ đạo xuyên suốt trong các tác phẩm và hoạt động cách mạng của Người.
-
-Chủ tịch Hồ Chí Minh đã nhiều lần khẳng định rằng, mục tiêu cuối cùng của cuộc đấu tranh giải phóng dân tộc là xây dựng một xã hội mới, công bằng, văn minh, nơi mà mọi người dân đều có quyền tự do, bình đẳng và hạnh phúc. Người tin rằng, chỉ có thông qua con đường xã hội chủ nghĩa, Việt Nam mới có thể đạt được độc lập, tự do và xây dựng một tương lai tốt đẹp hơn cho nhân dân.
-
-Do đó, lựa chọn C là câu trả lời đúng. Các lựa chọn khác, mặc dù có liên quan đến tư tưởng của Chủ tịch Hồ Chí Minh, nhưng không phản ánh chính xác mục tiêu cụ thể của con đường giải phóng dân tộc theo quan điểm của Người.",C,1.0,0.0
-"Trong một nền kinh tế hai hàng hóa, nếu giá của hàng hóa X là 5 đô la và giá của hàng hóa Y là 10 đô la, và người tiêu dùng có thu nhập là 100 đô la, thì độ dốc của đường ngân sách là bao nhiêu?","Đáp án là A. -2
-
-Giải thích: Đường ngân sách là đường biểu thị tất cả các tổ hợp hàng hóa mà người tiêu dùng có thể mua với một mức thu nhập nhất định. Độ dốc của đường ngân sách cho biết tỷ lệ thay thế giữa hai hàng hóa.
-
-Công thức tính độ dốc của đường ngân sách:
-
-Độ dốc = - (Giá hàng hóa X / Giá hàng hóa Y)
-
-Thay số vào công thức:
-
-Độ dốc = - (5 / 10) = -0,5
-
-Tuy nhiên, trong trường hợp này, chúng ta cần xem xét lại công thức vì giá hàng hóa X và Y đã được cho sẵn. Công thức đúng nên là:
-
-Độ dốc = - (Giá hàng hóa X / Giá hàng hóa Y) * (Thu nhập / Thu nhập)
-
-Vì thu nhập không ảnh hưởng đến độ dốc, nên công thức trên có thể được viết lại như sau:
-
-Độ dốc = - (Giá hàng hóa X / Giá hàng hóa Y)
-
-Thay số vào công thức:
-
-Độ dốc = - (5 / 10) = -0,5
-
-Tuy nhiên, đáp án A. -2 cũng có thể đúng nếu chúng ta xem xét lại công thức tính độ dốc của đường ngân sách. Công thức đúng nên là:
-
-Độ dốc = - (Giá hàng hóa X / Giá hàng hóa Y) * (Số lượng hàng hóa Y / Số lượng hàng hóa X)
-
-Nếu chúng ta giả sử rằng số lượng hàng hóa Y là 2 lần số lượng hàng hóa X, thì công thức trên có thể được viết lại như sau:
-
-Độ dốc = - (5 / 10) * (2 / 1) = -2
-
-Vậy đáp án A. -2 cũng có thể đúng trong trường hợp này. Tuy nhiên, để chắc chắn, chúng ta cần thêm thông tin về số lượng hàng hóa X và Y.",B,0.0,0.0
-"Một phân tử của một hợp chất nhất định có mô men lưỡng cực $ \mu $ và được đặt trong một trường điện đều $ E $. Phân tử có thể định hướng theo trường, và năng lượng thế $ U $ của phân tử trong trường có thể được mô tả bởi phương trình $ U = -\mu E \cos(\theta) $, trong đó $ \theta $ là góc giữa mô men lưỡng cực và trường điện. Nếu phân tử ban đầu được định hướng ở góc $ 60^\circ $ so với trường điện, và sau đó định hướng hoàn toàn theo trường (tức là $ \theta = 0^\circ $), thì độ biến thiên của năng lượng thế $ \Delta U $ là bao nhiêu?","Để tìm độ biến thiên của năng lượng thế $\Delta U$, ta cần tính toán năng lượng thế tại hai trạng thái khác nhau của phân tử.
-
-Trạng thái ban đầu: Góc giữa mô men lưỡng cực và trường điện là $60^\circ$. Năng lượng thế tại trạng thái này là:
-
-$$U_1 = -\mu E \cos(60^\circ) = -\mu E \cdot \frac{1}{2} = -\frac{\mu E}{2}$$
-
-Trạng thái cuối cùng: Phân tử định hướng hoàn toàn theo trường, tức là góc giữa mô men lưỡng cực và trường điện là $0^\circ$. Năng lượng thế tại trạng thái này là:
-
-$$U_2 = -\mu E \cos(0^\circ) = -\mu E \cdot 1 = -\mu E$$
-
-Độ biến thiên của năng lượng thế $\Delta U$ là hiệu giữa năng lượng thế tại trạng thái cuối cùng và trạng thái ban đầu:
-
-$$\Delta U = U_2 - U_1 = (-\mu E) - \left(-\frac{\mu E}{2}\right) = -\mu E + \frac{\mu E}{2} = -\frac{\mu E}{2}$$
-
-Vậy, độ biến thiên của năng lượng thế $\Delta U$ là $-\frac{\mu E}{2}$.
-
-Đáp án đúng là D. $ \Delta U = -\frac{\mu E}{2} $.",D,0.0,0.0
-Cách trách nhiệm xã hội của doanh nghiệp (CSR) thường mang lại lợi ích gì cho doanh nghiệp?,"Câu trả lời đúng: C
-
-Trách nhiệm xã hội của doanh nghiệp (CSR) thường mang lại nhiều lợi ích cho doanh nghiệp, bao gồm:
-
-- Cải thiện hình ảnh công chúng: Khi doanh nghiệp thực hiện các hoạt động CSR, họ có thể cải thiện hình ảnh của mình trong mắt công chúng, khách hàng, nhà đầu tư và các bên liên quan khác. Điều này có thể dẫn đến sự tăng trưởng về uy tín và niềm tin vào thương hiệu.
-
-- Tăng cường lòng trung thành của khách hàng: Khách hàng thường ưu tiên mua sắm từ các doanh nghiệp có trách nhiệm xã hội cao. Việc thực hiện CSR có thể giúp doanh nghiệp xây dựng mối quan hệ lâu dài với khách hàng và tăng cường lòng trung thành của họ.
-
-- Thu hút và giữ chân nhân viên: Các chương trình CSR có thể giúp doanh nghiệp thu hút và giữ chân nhân viên tài năng. Nhân viên thường cảm thấy tự hào khi làm việc cho một công ty có trách nhiệm xã hội cao, điều này có thể dẫn đến sự tăng trưởng về tinh thần làm việc và giảm tỷ lệ nhân viên nghỉ việc.
-
-- Mở rộng cơ hội kinh doanh: Thực hiện CSR có thể giúp doanh nghiệp mở rộng cơ hội kinh doanh thông qua việc xây dựng mối quan hệ với các đối tác, nhà cung cấp và khách hàng mới.
-
-- Giảm thiểu rủi ro: CSR có thể giúp doanh nghiệp giảm thiểu rủi ro liên quan đến các vấn đề môi trường, xã hội và quản trị. Bằng cách chủ động giải quyết các vấn đề này, doanh nghiệp có thể tránh được các khoản phạt, tổn thất về uy tín và các hậu quả tiêu cực khác.
-
-Tóm lại, thực hiện trách nhiệm xã hội của doanh nghiệp (CSR) có thể mang lại nhiều lợi ích cho doanh nghiệp, bao gồm cải thiện hình ảnh công chúng, tăng cường lòng trung thành của khách hàng, thu hút và giữ chân nhân viên, mở rộng cơ hội kinh doanh và giảm thiểu rủi ro.",C,1.0,0.0
+Câu hỏi: Theo nội dung được cung cấp, phương thức nào sau đây được hỗ trợ để mua sim Ezcom của Vinaphone?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',B,0.0,0.0
+"Một khối lượng $ m $ được gắn vào một lò xo có hằng số đàn hồi $ k $ và dao động theo phương ngang trên một mặt phẳng không ma sát. Khối lượng ban đầu được kéo lệch một khoảng $ A $ so với vị trí cân bằng và sau đó được thả ra từ trạng thái nghỉ. Đồng thời, một khối lượng giống hệt $ m $ được gắn vào một lò xo thứ hai có cùng hằng số đàn hồi $ k $ và được kéo lệch một khoảng $ A $ nhưng được cung cấp vận tốc ban đầu $ v_0 $ theo hướng dao động. Tỉ số giữa động năng cực đại của khối lượng thứ hai và động năng cực đại của khối lượng thứ nhất là bao nhiêu?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',C,0.0,0.0
+Làm thế nào việc mở rộng Medicaid ảnh hưởng đến khả năng tiếp cận dịch vụ chăm sóc dự phòng cho những người có thu nhập thấp?,module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',C,0.0,0.0
+"Theo quy trình cấp Chứng nhận trường mầm non đạt kiểm định chất lượng giáo dục, thành phần hồ sơ bắt buộc gồm những tài liệu nào?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',B,0.0,0.0
+"Nguyên lý về sự lựa chọn hợp lý phát biểu rằng, bạn sẽ lựa chọn việc sử dụng thu nhập tăng thêm của mình để cho:",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',B,0.0,0.0
+Nhiệm vụ nào sau đây KHÔNG thuộc khoa học xã hội?,module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',C,0.0,0.0
+"Một chất phóng xạ phân rã theo phương trình vi phân $ \frac{dA}{dt} = -kA $, trong đó $ A $ là lượng chất và $ k $ là một hằng số. Nếu lượng ban đầu là 500 gam và nó giảm xuống còn 250 gam sau 4 năm, thì lượng còn lại sau 8 năm là bao nhiêu?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',B,0.0,0.0
+Nguyễn Ái Quốc đã mở nhiều lớp huấn luyện đào tạo cán bộ cho cách mạng Việt Nam ở đâu,module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',B,0.0,0.0
+"Một nhà nghiên cứu đang kiểm định giả thuyết không $ H_0: \mu = 50 $ đối với giả thuyết thay thế $ H_1: \mu > 50 $ bằng cách sử dụng một mẫu có kích thước $ n = 36 $ từ một quần thể có phân phối chuẩn với phương sai chưa biết. Giá trị trung bình mẫu là $ \bar{x} = 53 $ và độ lệch chuẩn mẫu là $ s = 6 $. Trong số các phát biểu sau, phát biểu nào là đúng về giá trị thống kê t?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',E,0.0,0.0
+"Theo quan điểm của Chủ Tịch Hồ Chí Minh, con đường giải phóng dân tộc hướng tới mục tiêu nào?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',C,0.0,0.0
+"Trong một nền kinh tế hai hàng hóa, nếu giá của hàng hóa X là 5 đô la và giá của hàng hóa Y là 10 đô la, và người tiêu dùng có thu nhập là 100 đô la, thì độ dốc của đường ngân sách là bao nhiêu?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',B,0.0,0.0
+"Một phân tử của một hợp chất nhất định có mô men lưỡng cực $ \mu $ và được đặt trong một trường điện đều $ E $. Phân tử có thể định hướng theo trường, và năng lượng thế $ U $ của phân tử trong trường có thể được mô tả bởi phương trình $ U = -\mu E \cos(\theta) $, trong đó $ \theta $ là góc giữa mô men lưỡng cực và trường điện. Nếu phân tử ban đầu được định hướng ở góc $ 60^\circ $ so với trường điện, và sau đó định hướng hoàn toàn theo trường (tức là $ \theta = 0^\circ $), thì độ biến thiên của năng lượng thế $ \Delta U $ là bao nhiêu?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',D,0.0,0.0
+Cách trách nhiệm xã hội của doanh nghiệp (CSR) thường mang lại lợi ích gì cho doanh nghiệp?,module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',C,0.0,0.0
 "Đoạn thông tin:
 [1] Tiêu đề: Tiếng Hindustan Caribe
 Nội dung: Tiếng Hindustan Caribe là một ngôn ngữ Ấn-Arya được sử dụng bởi người Ấn-Caribe và cộng đồng Ấn-Caribe nhập cư. Nó dựa trên tiếng Bhojpur cùng với những ảnh hưởng từ tiếng Awadh. Những điều này được nói bởi những người lao động theo hợp đồng di cư đến vùng Caribe từ tiểu lục địa Ấn Độ. Nó có liên quan chặt chẽ với tiếng Hindi Fijivà tiếng Hindustan được nói ở Mauritius và Nam Phi. Bởi vì phần lớn mọi người đến từ khu vực Awadh ở Uttar Pradesh và khu vực Bhojpur ở Bihar, Jharkhand và Uttar Pradesh, tiếng Hindustan Caribe chịu ảnh hưởng nhiều nhất từ tiếng tiếng Bhojpur, tiếng Awadh và các phương ngữ Đông Hindi - Bihar khác. Nó chịu một ảnh hưởng rất ít từ tiếng Tamil, tiếng Telugu và các ngôn ngữ Dravida khác. Nó cũng đã mượn nhiều từ của tiếng Hà Lan ở Suriname và các thuộc địa khác của Hà Lan, tiếng Anh và tiếng Pháp ở các thuộc địa vương thất cũ của Anh và thuộc địa Pháp. Nhiều từ duy nhất của Hindustan Caribe đã được tạo ra để phục vụ cho môi trường mới nơi mà người Ấn-Caribe hiện đang sống.
@@ -619,9 +243,7 @@ Nội dung: Nhạc chutney, chutney soca, chutney parang, baithak gana, nhạc d
 
 [6] Tiêu đề: Ngữ ngành Hindi - Sử dụng ở các khu vực văn hóa phi Hindi.
 Nội dung: - Tiếng Urdu là ngôn ngữ chính thức của Pakistan. Mặc dù người bản ngữ chỉ chiếm của 7% dân số, nhưng nó là ngôn ngữ thứ hai trong số những người biết chữ. - Tiếng Hindi Bombay (""Bombay Baat"") là phương ngữ của thành phố Mumbai (Bombay); nó dựa trên tiếng Hindustan nhưng chịu ảnh hưởng nặng nề của tiếng Marathi. Chính xác thì nó là một pidgin, tức là nó không phải là ngôn ngữ mẹ đẻ của bất kỳ người nào cũng như không được sử dụng trong các tình huống trang trọng bởi tầng lớp trên của xã hội hay người có giáo dục. Tuy nhiên, nó thường được sử dụng trong phim mà điện ảnh Hindi (Bollywood) sản xuất vì Mumbai là trụ sở của ngành công nghiệp phim Bollywood. - Tiếng Dakhine (bao gồm cả Urdu Hyderabadi và Urdu Bangalori), một phương ngữ của tiếng Urdu được nói ở các khu vực mà trước đây là nhà nước Hyderabad và khu vực Deccan lịch sử. Có một sự khác biệt nhỏ nhưng dễ nhận ra giữa tiếng Dakhine và tiếng Hindi-Urdu chuẩn. Sự khác biệt này càng về phía nam càng lớn dần. - Hindi Creole Andaman là ngôn ngữ giao thương của Quần đảo Andaman và quần đảo Nicobar. - Hindi Arunachal là ngôn ngữ giao thương của Arunachal Pradesh - Hindi Haflong là ngôn ngữ giao thương của các khu vực liền kề với Haflong ở Assam - Tiếng Hindi Fiji là một lingua franca Đông Hindi được phát triển giữa những người Ấn-Fiji. - Tiếng Hindustan Caribe và ""Sarnami"" là lingua franca Đông Hindi được phát triển giữa những người Ấn-Caribe và rất giống với phương ngữ Bhojpur và Awadh của tiếng Hindi và tiếng Hindi Fiji. - Tiếng Hindi Bhojpur Mauritius được nói ở Mauritius. Nó dựa trên tiếng Bhojpur với ảnh hưởng từ tiếng Awadh và các phương ngữ Đông Hindi khác và Creole Mauritius. - Tiếng Hindi Nam Phi dựa trên tiếng Bhojpur, tiếng Awadh và tiếng Hindi chuẩn được nói bởi người Nam Phi Ấn Độ.
-Câu hỏi: Ngôn ngữ Hindustan Caribe chịu ảnh hưởng chính từ các nguồn nào, dựa trên ngữ cảnh được cung cấp?","Câu trả lời đúng: C. Tiếng Bhojpur, Awadh và các phương ngữ Đông Hindi khác
-
-Giải thích: Theo đoạn thông tin [1], [2] và [4], tiếng Hindustan Caribe chịu ảnh hưởng chính từ tiếng Bhojpur, tiếng Awadh và các phương ngữ Đông Hindi khác do phần lớn người lao động di cư đến vùng Caribe đến từ khu vực Awadh ở Uttar Pradesh và khu vực Bhojpur ở Bihar, Jharkhand và Uttar Pradesh.",C,1.0,0.0
+Câu hỏi: Ngôn ngữ Hindustan Caribe chịu ảnh hưởng chính từ các nguồn nào, dựa trên ngữ cảnh được cung cấp?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',C,0.0,0.0
 "Đoạn thông tin:
 Title: Chi Linh lăng
 Content: Chi Linh lăng hay chi Cỏ ba lá thập tự (danh pháp khoa học: Medicago) là một chi thực vật trong họ Đậu (Fabaceae), có hoa sống lâu năm, chủ yếu được nói đến như là M. sativa L., tức cỏ linh lăng.
@@ -639,8 +261,8 @@ Cỏ linh lăng có thể gieo vào mùa xuân hay mùa thu, và phát triển t
 Trong phần lớn các khu vực, cỏ linh lăng được thu hoạch từ 3-4 lần trong năm. Tổng năng suất khoảng 10 tấn/hecta (4 tấn/mẫu Anh) nhưng dao động theo khu vực và phụ thuộc vào thời tiết cũng như giai đoạn trưởng thành khi thu hoạch. Những lần thu hoạch sau thường có năng suất cao hơn nhưng thành phần dinh dưỡng lại hay bị giảm.
 Các loại bọ chét trên lá có thể giảm sản lượng đáng kể, cụ thể là đối với lần thu hoạch thứ hai trong năm do thời tiết là ấm nhất. Sử dụng thuốc trừ sâu đôi khi được áp dụng để ngăn không cho chúng phát triển. Cỏ linh lăng cũng dễ bị tổn thương trước bệnh thối gốc Texas (do nấm Phymatotrichopsis omni gây ra). Một số ấu trùng của một số loài thuộc bộ Lepidoptera như bướm mắt cáo (Semiothisa clathrata) cũng ăn lá của cỏ linh lăng.
 Việc gieo trồng cỏ linh lăng để lấy hạt đòi hỏi phải có sự thụ phấn nhân tạo, do vậy khi cỏ linh lăng ra hoa người ta phải đưa những ""sinh vật thụ phấn"" nhân tạo ra gần cánh đồng. Thông thường người ta dùng loài ong làm tổ dưới đất (Megachile rotundata), được nuôi trong các tổ đặc biệt gần các cánh đồng trồng cỏ lấy hạt, hay các tổ ong mật (chi Apis).
-Câu hỏi: Tại sao hạt cỏ linh lăng không thể mọc được trong các khu vực đang có cỏ linh lăng?","B. Vì cỏ linh lăng có hiện tượng tự gây độc, ngăn cản nảy mầm của hạt",B,1.0,0.0
-Một trường từ đều $ B $ hướng dọc theo trục z. Một khung dây hình chữ nhật có chiều rộng $ w $ và chiều cao $ h $ nằm trong mặt phẳng xy và mang dòng điện $ I $. Khung dây ban đầu đứng yên và có thể quay quanh trục y. Độ lớn mô men xoắn tác dụng lên khung do trường từ là bao nhiêu khi mặt phẳng khung tạo một góc $ \theta $ với trục x?,Đáp án là A. $ B I w h \sin(\theta) $,A,1.0,0.0
+Câu hỏi: Tại sao hạt cỏ linh lăng không thể mọc được trong các khu vực đang có cỏ linh lăng?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',B,0.0,0.0
+Một trường từ đều $ B $ hướng dọc theo trục z. Một khung dây hình chữ nhật có chiều rộng $ w $ và chiều cao $ h $ nằm trong mặt phẳng xy và mang dòng điện $ I $. Khung dây ban đầu đứng yên và có thể quay quanh trục y. Độ lớn mô men xoắn tác dụng lên khung do trường từ là bao nhiêu khi mặt phẳng khung tạo một góc $ \theta $ với trục x?,module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',A,0.0,0.0
 "Đoạn thông tin:
 [1] Tiêu đề: Kẻ trộm Mặt Trăng
 Nội dung: Despicable Me (tạm dịch: Tôi ti tiện, phát hành ở Việt Nam dưới tên Kẻ trộm mặt trăng) là một bộ phim hoạt hình 3D của Universal Pictures và Illumination Entertainment, được phát hành ngày 9 tháng 7 năm 2010 ở Hoa Kỳ. Bộ phim có sự tham gia lồng tiếng của Steve Carell, Jason Segel, Russell Brand, Julie Andrews, Will Arnett, Kristen Wiig, và Miranda Cosgrove. Đây là bộ phim CGI đầu tiên được sản xuất bởi Universal, cùng với Illumination Entertainment. Bộ phim được dàn dựng hoàn toàn bằng máy tính tại studio Mac Guff ở Paris, Pháp.
@@ -684,66 +306,11 @@ Bộ phim thu được nhiều nhận xét tích cực từ các nhà phê bình
 V. Phần tiếp theo
 
 Phần tiếp theo của bộ phim Despicable Me 2 đã được thực hiện và được công chiếu ở Úc vào ngày 5 tháng 6 năm 2013 và tại các rạp ở Mỹ vào ngày 3 tháng 7 năm 2013. Phần 3, Despicable Me 3 đã được thực hiện và được công chiếu ở Hoa Kỳ vào ngày 30 tháng 6 năm 2017. Tháng 9 năm 2017 , CEO của Illumination - Chris Meledandri cho biết rằng phần thứ 4 của Despicable Me đang được thực hiện.
-Câu hỏi: Vector (tên thật là Victor Perkins) là con trai của nhân vật nào trong phim?",A. Perkins (chủ tịch Ngân hàng Xấu xa),A,1.0,0.0
-"Lãi suất danh nghĩa là 10% được tính theo kỳ bán niên, vậy lãi suất hàng năm hiệu quả là bao nhiêu?","Để tính lãi suất hàng năm hiệu quả khi biết lãi suất danh nghĩa và chu kỳ tính lãi, ta sử dụng công thức sau:
-
-Lãi suất hàng năm hiệu quả = (1 + Lãi suất danh nghĩa / Số kỳ tính lãi trong năm)^Số kỳ tính lãi trong năm - 1
-
-Trong trường hợp này, lãi suất danh nghĩa là 10%, được tính theo kỳ bán niên, nghĩa là có 2 kỳ tính lãi trong năm.
-
-Thay số vào công thức, ta có:
-
-Lãi suất hàng năm hiệu quả = (1 + 0.10 / 2)^2 - 1
-= (1 + 0.05)^2 - 1
-= (1.05)^2 - 1
-= 1.1025 - 1
-= 0.1025
-
-Vậy lãi suất hàng năm hiệu quả là 10.25%.
-
-Đáp án đúng là B. 10.25%.",B,1.0,0.0
-Chủ Tịch Hồ Chí Minh đã tiếp thu những giá trị tích cực nào từ Nho giáo để phục vụ cách mạng?,"Đáp án là B. Lý tưởng xã hội bình trị và đại đồng
-
-Giải thích: Chủ tịch Hồ Chí Minh đã tiếp thu những giá trị tích cực từ Nho giáo để phục vụ cách mạng, trong đó có lý tưởng xã hội bình trị và đại đồng. Đây là một trong những tư tưởng quan trọng của Nho giáo, hướng tới xây dựng một xã hội công bằng, hòa bình và thịnh vượng cho tất cả mọi người.
-
-Chủ tịch Hồ Chí Minh đã vận dụng tư tưởng này vào thực tiễn cách mạng, đề ra mục tiêu xây dựng một xã hội mới, công bằng và văn minh, nơi mà mọi người đều có cơ hội phát triển và hưởng thụ cuộc sống tốt đẹp hơn. Tư tưởng này đã trở thành một phần quan trọng trong tư tưởng chính trị và triết lý của Chủ tịch Hồ Chí Minh, hướng dẫn cho phong trào cách mạng và xây dựng đất nước sau này.",C,0.0,0.0
-"Một công ty có một khoản nợ phải trả với số tiền gốc là 80.000 đô la và lãi suất hàng năm là 6%. Nếu lãi suất được tính theo kỳ hạn hàng năm, số tiền phải trả tổng cộng vào cuối 2 năm là bao nhiêu?","Để tính số tiền phải trả tổng cộng vào cuối 2 năm, ta cần tính lãi suất hàng năm và cộng thêm vào số tiền gốc.
-
-Số tiền gốc: 80.000 đô la
-Lãi suất hàng năm: 6%
-
-Năm đầu tiên:
-Lãi suất = Số tiền gốc x Lãi suất hàng năm
-= 80.000 x 6%
-= 80.000 x 0,06
-= 4.800 đô la
-
-Tổng số tiền phải trả sau năm đầu tiên:
-= Số tiền gốc + Lãi suất
-= 80.000 + 4.800
-= 84.800 đô la
-
-Năm thứ hai:
-Lãi suất = Tổng số tiền phải trả sau năm đầu tiên x Lãi suất hàng năm
-= 84.800 x 6%
-= 84.800 x 0,06
-= 5.088 đô la
-
-Tổng số tiền phải trả sau năm thứ hai:
-= Tổng số tiền phải trả sau năm đầu tiên + Lãi suất
-= 84.800 + 5.088
-= 89.888 đô la ≈ 89.600 đô la (làm tròn)
-
-Vậy số tiền phải trả tổng cộng vào cuối 2 năm là khoảng 89.600 đô la.
-
-Đáp án: A. 89.600 đô la",A,1.0,0.0
-"Các giá trị Chân – Thiện – Mỹ hợp thành hệ thống giá trị chuẩn mực của văn hóa, trong đó giá trị Mỹ được hiểu là cái đẹp, sự thẩm mỹ hóa, sự hài hòa. Nó là sản phẩm của lĩnh vực Nghệ Thuật và biểu hiện tính:","Câu trả lời đúng: C. Nhân văn
-
-Giải thích: Các giá trị Chân – Thiện – Mỹ hợp thành hệ thống giá trị chuẩn mực của văn hóa, trong đó giá trị Mỹ được hiểu là cái đẹp, sự thẩm mỹ hóa, sự hài hòa. Nó là sản phẩm của lĩnh vực Nghệ Thuật và biểu hiện tính nhân văn.
-
-Nhân văn là một khái niệm rộng lớn, bao gồm nhiều khía cạnh khác nhau như tình yêu thương, lòng trắc ẩn, sự đồng cảm, sự tôn trọng và bảo vệ quyền con người. Trong nghệ thuật, tính nhân văn thường được thể hiện qua việc miêu tả cuộc sống con người, khám phá những vấn đề xã hội, và phản ánh những giá trị đạo đức và tinh thần.
-
-Do đó, giá trị Mỹ trong hệ thống giá trị chuẩn mực của văn hóa biểu hiện tính nhân văn, tức là sự quan tâm và chăm sóc đến con người, sự tôn trọng và bảo vệ quyền con người, và sự khám phá những giá trị đạo đức và tinh thần thông qua nghệ thuật.",C,1.0,0.0
+Câu hỏi: Vector (tên thật là Victor Perkins) là con trai của nhân vật nào trong phim?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',A,0.0,0.0
+"Lãi suất danh nghĩa là 10% được tính theo kỳ bán niên, vậy lãi suất hàng năm hiệu quả là bao nhiêu?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',B,0.0,0.0
+Chủ Tịch Hồ Chí Minh đã tiếp thu những giá trị tích cực nào từ Nho giáo để phục vụ cách mạng?,module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',C,0.0,0.0
+"Một công ty có một khoản nợ phải trả với số tiền gốc là 80.000 đô la và lãi suất hàng năm là 6%. Nếu lãi suất được tính theo kỳ hạn hàng năm, số tiền phải trả tổng cộng vào cuối 2 năm là bao nhiêu?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',A,0.0,0.0
+"Các giá trị Chân – Thiện – Mỹ hợp thành hệ thống giá trị chuẩn mực của văn hóa, trong đó giá trị Mỹ được hiểu là cái đẹp, sự thẩm mỹ hóa, sự hài hòa. Nó là sản phẩm của lĩnh vực Nghệ Thuật và biểu hiện tính:",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',C,0.0,0.0
 "Đoạn thông tin:
 Title: Cổ Thiên Lạc
 Content: Cổ Thiên Lạc (sinh ngày 21 tháng 10 năm 1970) là một diễn viên và ca sĩ người Hồng Kông. Anh từng là gương mặt nổi bật và diễn viên chủ chốt của đài truyền hình trung ương TVB TV drama. Anh từng đoạt giải TVB cho nam diễn viên xuất sắc nhất (Best Actor) trong năm 1999 cho vai diễn Từ Phi trong loạt phim Hồ sơ trinh sát 4 . Năm 2001 sau khi hoàn thành vai diễn Hạng Thiếu Long trong phim Cỗ Máy Thời gian (phim giúp Cổ Thiên Lạc lần thứ hai thắng giải thị đế) anh rời TVB và chỉ tập trung vào phim điện ảnh. Cổ Thiên Lạc là một trong những diễn viên nổi tiếng và được yêu thích nhất của điện ảnh Hoa ngữ (Điện ảnh Hồng Kông), và là gương mặt đại diện cho các thương hiệu quảng cáo như: Pepsi, Osim, Tag Heuer, Lotte, Zero Eyewear, Lay's, và những sản phẩm nội địa khác.
@@ -772,64 +339,13 @@ Ngoài diễn viên, Cổ Thiên Lạc còn làm ca sĩ và phát hành vài alb
 2003：Mr. Cool
 2006：藍色的緣份Anh hát ca khúc chủ đề cho một số phim truyền hình TVB mình từng tham gia: Lệnh Truy Nã, Thời đại chiến quốc (Cỗ máy thời gian), Hồ sơ vụ án 4, Thời đại khủng hoảng (Thử thách nghiệt ngã).
 Năm 2004, anh đến Việt Nam giao lưu cùng fan hâm mộ tại sân khấu Lan Anh. Trong đêm diễn anh song ca bài ""Bạn trai"" cùng ca sĩ Phương Thanh.
-Câu hỏi: Biệt danh 'Mr. Cool' của Cổ Thiên Lạc có nguồn gốc từ yếu tố nào sau đây?",Câu trả lời đúng là B. Viết tắt tên tiếng Anh của anh là KooL,A,0.0,0.0
-Điều gì xảy ra khi tiết kiệm thực tế khác với tiết kiệm theo kế hoạch?,"Câu trả lời đúng: C. Điều chỉnh tồn kho
-
-Giải thích: Khi tiết kiệm thực tế khác với tiết kiệm theo kế hoạch, điều này có thể dẫn đến sự mất cân bằng trong nền kinh tế. Nếu tiết kiệm thực tế cao hơn tiết kiệm theo kế hoạch, điều đó có nghĩa là người tiêu dùng đang tiết kiệm nhiều hơn so với dự kiến, dẫn đến giảm nhu cầu tiêu dùng và có thể gây ra tình trạng dư thừa hàng hóa trên thị trường. Ngược lại, nếu tiết kiệm thực tế thấp hơn tiết kiệm theo kế hoạch, điều đó có nghĩa là người tiêu dùng đang tiêu dùng nhiều hơn so với dự kiến, dẫn đến tăng nhu cầu tiêu dùng và có thể gây ra tình trạng thiếu hụt hàng hóa trên thị trường.
-
-Trong cả hai trường hợp, để giải quyết sự mất cân bằng này, các doanh nghiệp thường phải điều chỉnh tồn kho của mình. Nếu tiết kiệm thực tế cao hơn tiết kiệm theo kế hoạch, các doanh nghiệp có thể phải giảm sản xuất hoặc giảm giá bán để kích thích nhu cầu tiêu dùng và giảm tồn kho. Ngược lại, nếu tiết kiệm thực tế thấp hơn tiết kiệm theo kế hoạch, các doanh nghiệp có thể phải tăng sản xuất hoặc tăng giá bán để đáp ứng nhu cầu tiêu dùng tăng cao và tăng tồn kho.
-
-Vì vậy, điều chỉnh tồn kho là cách phổ biến nhất để giải quyết sự mất cân bằng giữa tiết kiệm thực tế và tiết kiệm theo kế hoạch. Các lựa chọn khác như điều chỉnh giá, điều chỉnh sản lượng, và điều chỉnh lãi suất cũng có thể được sử dụng, nhưng chúng không phải là cách trực tiếp nhất để giải quyết vấn đề này.",C,1.0,0.0
-Cuộc thi người mẫu nào tổ chức quy mô toàn quốc phải có giấy phép của ai?,"Đáp án A. Cục Nghệ thuật biểu diễn
-
-Giải thích: Theo khoản 2 Điều 10 Nghị định 79/2018/NĐ-CP, cuộc thi người mẫu tổ chức quy mô toàn quốc phải có giấy phép của Cục Nghệ thuật biểu diễn.",A,1.0,0.0
-Những trường hợp nào khoan giếng không phải đăng ký khai thác?,"Đáp án là D. Tất cả đáp án trên. Theo khoản 2 Điều 109 Luật Tài nguyên nước 2012, các trường hợp khai thác, sử dụng nước mặt, nước dưới đất không phải đăng ký bao gồm:
-
-- Khai thác, sử dụng nước cho sinh hoạt của hộ gia đình; sử dụng nước biển để sản xuất muối.
-- Khai thác, sử dụng nước với quy mô nhỏ cho sản xuất, kinh doanh, dịch vụ; sử dụng nước phục vụ các hoạt động văn hóa, tôn giáo, nghiên cứu khoa học.
-- Khai thác, sử dụng nước cho phòng cháy, chữa cháy, ứng phó, khắc phục sự cố ô nhiễm, dịch bệnh và các trường hợp khẩn cấp khác theo quy định của pháp luật về tình trạng khẩn cấp.",D,1.0,0.0
-Tri giác phản ánh điều gì?,"Đáp án A. Tri giác phản ánh sự vật, hiện tượng một cách trọn vẹn.
-
-Giải thích: Tri giác là quá trình nhận thức về sự vật, hiện tượng một cách trọn vẹn, bao gồm cả hình dạng, màu sắc, kích thước, vị trí,... của sự vật, hiện tượng đó. Tri giác giúp chúng ta nhận biết và phân biệt được các sự vật, hiện tượng khác nhau trong thế giới xung quanh.
-
-Ví dụ: Khi nhìn thấy một con mèo, chúng ta không chỉ nhận biết được hình dạng, màu sắc của nó mà còn có thể cảm nhận được tiếng kêu, mùi thơm,... của nó. Điều này cho thấy tri giác giúp chúng ta nhận thức về sự vật, hiện tượng một cách trọn vẹn.
-
-Các lựa chọn khác không chính xác vì:
-
-* B. Các thuộc tính riêng lẻ của sự vật, hiện tượng: Tri giác không chỉ phản ánh các thuộc tính riêng lẻ mà còn phản ánh sự vật, hiện tượng một cách trọn vẹn.
-* C. Bản chất của sự vật, hiện tượng: Tri giác không phản ánh bản chất của sự vật, hiện tượng mà chỉ phản ánh hình dạng, màu sắc, kích thước,... của nó.
-* D. Mối quan hệ giữa các sự vật, hiện tượng: Tri giác không phản ánh mối quan hệ giữa các sự vật, hiện tượng mà chỉ phản ánh sự vật, hiện tượng một cách trọn vẹn.",A,1.0,0.0
-VNNIC là tên viết tắt của đơn vị nào?,"Đáp án A. Trung tâm Internet Việt Nam, đơn vị thuộc Bộ Thông tin và Truyền thông.",A,1.0,0.0
-"Một tụ điện có điện dung 100 μF được nạp đến điện áp 120V. Sau đó, nó được xả qua một điện trở 500 ohm. Thời gian cần thiết để điện áp trên tụ giảm xuống còn 37% giá trị ban đầu là bao lâu?","Để tìm thời gian cần thiết để điện áp trên tụ giảm xuống còn 37% giá trị ban đầu, ta sử dụng công thức:
-
-U(t) = U0 \* e^(-t/RC)
-
-trong đó:
-- U(t) là điện áp tại thời điểm t
-- U0 là điện áp ban đầu (120V)
-- R là điện trở (500 ohm)
-- C là điện dung (100 μF = 100 \* 10^(-6) F)
-- t là thời gian cần tìm
-
-Ta muốn tìm thời gian t khi U(t) = 0.37 \* U0 (37% giá trị ban đầu).
-
-Thay số vào công thức:
-
-0.37 \* 120 = 120 \* e^(-t/(500 \* 100 \* 10^(-6)))
-
-Giải phương trình này cho t:
-
-e^(-t/(500 \* 100 \* 10^(-6))) = 0.37
-
--t/(500 \* 100 \* 10^(-6)) = ln(0.37)
-
-t = -ln(0.37) \* 500 \* 100 \* 10^(-6)
-
-t ≈ 0.1 giây
-
-Vậy thời gian cần thiết để điện áp trên tụ giảm xuống còn 37% giá trị ban đầu là khoảng 0.1 giây.
-
-Đáp án: B. 0.1 giây",A,0.0,0.0
+Câu hỏi: Biệt danh 'Mr. Cool' của Cổ Thiên Lạc có nguồn gốc từ yếu tố nào sau đây?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',A,0.0,0.0
+Điều gì xảy ra khi tiết kiệm thực tế khác với tiết kiệm theo kế hoạch?,module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',C,0.0,0.0
+Cuộc thi người mẫu nào tổ chức quy mô toàn quốc phải có giấy phép của ai?,module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',A,0.0,0.0
+Những trường hợp nào khoan giếng không phải đăng ký khai thác?,module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',D,0.0,0.0
+Tri giác phản ánh điều gì?,module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',A,0.0,0.0
+VNNIC là tên viết tắt của đơn vị nào?,module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',A,0.0,0.0
+"Một tụ điện có điện dung 100 μF được nạp đến điện áp 120V. Sau đó, nó được xả qua một điện trở 500 ohm. Thời gian cần thiết để điện áp trên tụ giảm xuống còn 37% giá trị ban đầu là bao lâu?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',A,0.0,0.0
 "Đoạn thông tin:
 Tiêu đề: Giao thông liên lạc Việt Nam thời quân chủ
 Nội dung: Giao thông và liên lạc tại Việt Nam thời Quân chủ Việt Nam không được quan tâm nhiều và phát triển chậm, chủ yếu do những hạn chế và yếu kém về kỹ thuật. Về cơ bản hệ thống giao thông được chia làm 2 hệ thống chính là giao thông đường bộ, giao thông đường thuỷ và ngoài ra còn có thêm hệ thống thông tin liên lạc.
@@ -856,20 +372,8 @@ Ngoài ra còn mạng lưới đường bộ từ Thăng Long toả đi nhiều 
 
 Vào thời kỳ này, do hạn chế về mặt kỹ thuật, hầu hết đường sá được đắp bằng đất. Người ta thường đắp đường ở giữa cao lên và đào những con mương dẫn nước ở hai bên hoặc một bên đường. Do là đường đất, cộng thêm nhu cầu đi lại ngày càng tăng và mưa lũ liên tục diễn ra hàng năm trên cả nước, chất lượng các con đường đất nhìn chung là thấp. Để gia cố và làm vững chắc cho đường sá, người ta có thể rải ít đá dăm và sỏi, gạch vụn, rồi đầm vào mặt đường, hai bên đường trồng thêm cây để chống xói mòn do mưa lũ, giảm sự sụt lở của đất đá. Nhưng đoạn đường đê - tuyến giao thông và chống lũ lụt quan trọng, thường được quan tâm kỹ, có quan hộ đê phụ trách riêng, luôn huy động dân công đắp đê bằng công quỹ từ triều đình và đóng góp của địa phương.
 Có một nghịch lý vào thời kỳ này là trong khi Thăng Long đến thế kỷ 19 vẫn còn nhiều con phố trong phường thợ là đường đất, thì rất nhiều đường làng đã được lát gạch. Điều này bắt nguồn từ một số quy ước làng xã xưa: mỗi khi có đôi trai gái nào làm đám cưới, thì phải lát cho làng vài thước đường đi, quy định này nhiều hay ít phụ thuộc vào điều kiện kinh tế của từng làng, tối thiểu là 1 thước và có thể tối đa lên đến 5, 10 thước. Các đường làng đều nhỏ hẹp, chỉ từ 80 phân đến 1 thước, nhưng được lát gạch theo chiều nghiêng rất vững chắc. Có vài làng, như làng Phù Lưu được những viên quan người địa phương cho lát đá đường làng với hệ thống cống rãnh rất hoàn chỉnh. Đường lát gạch và đá do triều đình thực hiện chỉ có từng đoạn ngắn ở kinh kỳ gần cung cấm và các vương phủ, quan phủ, đền chùa, miếu mạo...
-Câu hỏi: Tại sao vào thế kỷ XIX, nhiều đường làng ở Việt Nam thời quân chủ lại được lát gạch hoặc đá, trong khi các phố trong phường ở Thăng Long vẫn chủ yếu là đường đất?","Câu trả lời đúng là B. Vì quy ước làng xã bắt buộc lát đường khi có đám cưới, trong khi triều đình không có chính sách tương tự cho các phố trong thành.
-
-Theo đoạn thông tin, có một quy ước làng xã xưa là mỗi khi có đôi trai gái nào làm đám cưới, thì phải lát cho làng vài thước đường đi. Quy định này nhiều hay ít phụ thuộc vào điều kiện kinh tế của từng làng, tối thiểu là 1 thước và có thể tối đa lên đến 5, 10 thước. Điều này giải thích tại sao nhiều đường làng ở Việt Nam thời quân chủ lại được lát gạch hoặc đá, trong khi các phố trong phường ở Thăng Long vẫn chủ yếu là đường đất.",B,1.0,0.0
-Giáo dục đóng vai trò:,"Đáp án: D. Tất cả các ý trên
-
-Giải thích: Giáo dục đóng vai trò quan trọng trong việc phát triển nhân cách, tái tạo sức lao động và thúc đẩy tiến bộ xã hội.
-
-- Phát triển nhân cách: Giáo dục giúp con người phát triển toàn diện về thể chất, trí tuệ, tình cảm và đạo đức, trở thành những cá nhân có nhân cách tốt đẹp.
-
-- Tái tạo sức lao động: Giáo dục cung cấp cho con người kiến thức, kỹ năng và thái độ cần thiết để tham gia vào lực lượng lao động, đóng góp cho sự phát triển kinh tế - xã hội.
-
-- Thúc đẩy tiến bộ xã hội: Giáo dục giúp con người hiểu biết về thế giới xung quanh, về các vấn đề xã hội, kinh tế, chính trị, từ đó có thể tham gia vào quá trình xây dựng và phát triển đất nước.
-
-Vì vậy, đáp án đúng là D. Tất cả các ý trên.",D,1.0,0.0
+Câu hỏi: Tại sao vào thế kỷ XIX, nhiều đường làng ở Việt Nam thời quân chủ lại được lát gạch hoặc đá, trong khi các phố trong phường ở Thăng Long vẫn chủ yếu là đường đất?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',B,0.0,0.0
+Giáo dục đóng vai trò:,module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',D,0.0,0.0
 "Đoạn thông tin:
 [1] Tiêu đề: Vladimir Vladimirovich Putin
 Nội dung: Bộ trưởng Kinh tế Nga Alexei Ulyukayev cảnh báo rằng nước Nga có nguy cơ đối mặt với tăng trưởng thấp do Điện Kremlin không thực hiện các cải cách trong khi giá dầu vẫn ở mức cao. Ulyukayev đã dự báo mức tăng trưởng GDP trung bình hàng năm của Nga chỉ khoảng từ 2,5% - 3,0% từ nay cho đến tận năm 2025. Khu vực dầu mỏ và khí đốt tự nhiên của Nga chiếm tới gần 25% tổng sản phẩm quốc nội (GDP) và khoảng 30% tổng thu nhập ngân sách quốc gia. Ngoài ra, bộ máy hành chính cồng kềnh, quan liêu ngày càng phình to và chi tiêu quốc gia thiếu hiệu quả cũng là những nhân tố cản trở tới mức tăng trưởng.
@@ -888,9 +392,7 @@ Nội dung: Với Nga, Ngân hàng Thế giới cho biết trong một báo cáo
 
 [6] Tiêu đề: Lịch sử Nga (1991–nay) - Nền kinh tế hậu Xô viết. Giảm phát kinh tế và khó khăn xã hội.
 Nội dung: Sau sự sụp đổ kinh tế đầu thập niên 1990, Nga đối mặt với tình trạng gia tăng nghèo đói và bất bình đẳng kinh tế mạnh mẽ. Những ước tính của Ngân hàng Thế giới dựa trên cả dữ liệu kinh tế vi mô và những nghiên cứu về mức thu nhập hộ và chi tiêu cho thấy trong khi 1.5% dân số sống dưới ngưỡng nghèo khổ (được xác định là mức thu nhập tương đương $25 một tháng) hồi cuối thời kỳ Xô viết, tới giữa năm 1993 khoảng 39% tới 49% dân số sống dưới ngưỡng nghèo khổ. Thu nhập trên đầu người giảm thêm 15% vào năm 1998, theo các con số của chính phủ.
-Câu hỏi: Theo dự báo của Bộ trưởng Kinh tế Nga Alexei Ulyukayev, mức tăng trưởng GDP trung bình hàng năm của Nga từ nay đến năm 2025 dự kiến là bao nhiêu?","Câu trả lời đúng: C. 2,5% - 3,0%
-
-Giải thích: Theo đoạn thông tin [1], Bộ trưởng Kinh tế Nga Alexei Ulyukayev đã dự báo mức tăng trưởng GDP trung bình hàng năm của Nga chỉ khoảng từ 2,5% - 3,0% từ nay cho đến tận năm 2025.",C,1.0,0.0
+Câu hỏi: Theo dự báo của Bộ trưởng Kinh tế Nga Alexei Ulyukayev, mức tăng trưởng GDP trung bình hàng năm của Nga từ nay đến năm 2025 dự kiến là bao nhiêu?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',C,0.0,0.0
 "Đoạn thông tin:
 Malaysia
 Hiến pháp Malaysia đảm bảo quyền tự do tôn giáo trong khi xác định Hồi giáo là quốc giáo. Theo số liệu từ Điều tra dân số và nhà ở năm 2010, có sự tương liên cao giữa dân tộc và tôn giáo. Xấp xỉ 61,3% dân số thực hành Hồi giáo, 19,8% thực hành Phật giáo, 9,2% thực hành Ki-tô giáo, 6,3% thực hành Ấn Độ giáo và 1,3% thực hành Nho giáo, Đạo giáo và các tôn giáo truyền thống Trung Hoa. 0,7% tuyên bố là người không tôn giáo và 1,4% còn lại thực hành các tôn giáo khác hoặc không cung cấp thông tin nào. Trong số tín đồ Hồi giáo, tín đồ phái Sunni chiếm đa số trong khi tín đồ Hồi giáo phi giáo phái là nhóm đông thứ hai với 18%.
@@ -909,107 +411,15 @@ Vào tháng 8 năm 2012, cuộc khảo sát quy mô lớn và lập bản đồ 
 
 Singapore - Nhân khẩu. Tôn giáo.
 Phật giáo là tôn giáo được thực hành phổ biến nhất tại Singapore, với 33% số cư dân tuyên bố bản thân họ là tín đồ đạo Phật trong cuộc điều tra dân số gần đây nhất. Tôn giáo được thực hành phổ biến thứ nhì là Ki-tô giáo, sau đó là Hồi giáo, Đạo giáo, và Ấn Độ giáo. 17% dân số không gia nhập tôn giáo nào. Tỷ lệ tín đồ Ki-tô giáo, Đạo giáo, và người không tôn giáo tăng trong khoảng thời gian giữa năm 2000 và 2010, mỗi nhóm tăng 3%, trong khi tỷ lệ tín đồ Phật giáo thì giảm xuống. Các đức tin khác vẫn ổn định trên quy mô lớn về tỷ lệ dân số.
-Câu hỏi: Theo dữ liệu được cung cấp, quốc gia nào có tỷ lệ người không theo tôn giáo (không tuyên xưng bất kỳ tôn giáo cụ thể nào) cao nhất?",Câu trả lời đúng là B. Nga (25%),B,1.0,0.0
-"Một nhà độc quyền đối mặt với đường cầu tuyến tính và chi phí biên không đổi. Nếu chính phủ áp đặt một khoản thuế theo đơn vị lên nhà độc quyền,","Đáp án A. sản lượng của nhà độc quyền sẽ giảm, và giá sẽ tăng.
-
-Giải thích: Khi chính phủ áp đặt một khoản thuế theo đơn vị lên nhà độc quyền, chi phí sản xuất của nhà độc quyền sẽ tăng lên. Điều này sẽ làm cho đường cung của nhà độc quyền dịch chuyển lên trên, dẫn đến việc sản lượng giảm và giá tăng.",A,1.0,0.0
-"Một quả bóng bay hình cầu có bán kính $ R $ đang được bơm phồng. Áp suất bên trong quả bóng tỷ lệ thuận với lực căng bề mặt $ \sigma $ và tỷ lệ nghịch với bán kính $ R $. Nếu bán kính của quả bóng được nhân đôi, áp suất bên trong quả bóng thay đổi theo nhân tử nào?",Đáp án là B. $ \frac{1}{2} $,B,1.0,0.0
-"Một con lắc có chiều dài $ L $ được dịch chuyển bởi một góc nhỏ $ \theta_0 $ và được thả ra từ trạng thái nghỉ. Con lắc chịu tác dụng của một lực cản tỉ lệ với vận tốc góc của nó, với hệ số cản $ b $. Chuyển động của con lắc được mô tả bởi phương trình vi phân $ \frac{d^2\theta}{dt^2} + \frac{b}{mL} \frac{d\theta}{dt} + \frac{g}{L} \theta = 0 $, trong đó $ m $ là khối lượng của quả nặng con lắc, và $ g $ là gia tốc trọng trường. Trong số các câu sau, câu nào mô tả tốt nhất hành vi của độ dịch góc $ \theta(t) $ của con lắc theo thời gian?","Đáp án là E. $ \theta(t) $ dao động với biên độ giảm dần.
-
-Giải thích: Phương trình vi phân mô tả chuyển động của con lắc có dạng $ \frac{d^2\theta}{dt^2} + \frac{b}{mL} \frac{d\theta}{dt} + \frac{g}{L} \theta = 0 $, trong đó có chứa cả hệ số cản $ b $ và gia tốc trọng trường $ g $. Điều này cho thấy rằng chuyển động của con lắc bị ảnh hưởng bởi cả lực cản và lực hấp dẫn.
-
-Do có lực cản tỉ lệ với vận tốc góc, nên biên độ dao động của con lắc sẽ giảm dần theo thời gian. Tuy nhiên, do vẫn còn lực hấp dẫn tác dụng lên con lắc, nên nó vẫn sẽ tiếp tục dao động, nhưng với biên độ giảm dần.
-
-Vì vậy, đáp án E là chính xác nhất, vì nó mô tả đúng hành vi của độ dịch góc $ \theta(t) $ của con lắc theo thời gian. Các đáp án khác không chính xác vì chúng không phản ánh đúng sự kết hợp giữa lực cản và lực hấp dẫn trong chuyển động của con lắc.",E,1.0,0.0
-Giải pháp nào sau đây được đề xuất để xử lý lỗi xác thực khi nộp hồ sơ thẩm duyệt thiết kế về phòng cháy và chữa cháy?,"Đáp án: D. Gọi tổng đài kỹ thuật của hệ thống để khắc phục lỗi
-
-Giải thích: Khi nộp hồ sơ thẩm duyệt thiết kế về phòng cháy và chữa cháy, nếu gặp lỗi xác thực, giải pháp phù hợp nhất là gọi tổng đài kỹ thuật của hệ thống để được hỗ trợ và khắc phục lỗi. Điều này giúp giải quyết vấn đề một cách nhanh chóng và hiệu quả, đảm bảo quá trình nộp hồ sơ được thực hiện suôn sẻ.
-
-Các lựa chọn khác không phù hợp vì:
-
-A. Kiểm tra lại hồ sơ để đảm bảo đầy đủ giấy tờ: Đây là bước cần thực hiện trước khi nộp hồ sơ, nhưng không liên quan trực tiếp đến việc xử lý lỗi xác thực.
-
-B. Liên hệ với cơ quan chức năng để được hỗ trợ trực tiếp: Cơ quan chức năng thường không cung cấp hỗ trợ kỹ thuật cho hệ thống nộp hồ sơ trực tuyến.
-
-C. Gửi hồ sơ qua dịch vụ bưu chính công ích: Phương thức này không liên quan đến việc xử lý lỗi xác thực khi nộp hồ sơ trực tuyến.",B,0.0,0.0
-Làm thế nào một sự gia tăng mức lương tối thiểu có thể ảnh hưởng đến thị trường lao động nếu nó được đặt ở mức cao hơn mức lương cân bằng?,"Câu trả lời đúng: C
-
-Giải thích:
-
-Khi mức lương tối thiểu được đặt ở mức cao hơn mức lương cân bằng, điều này có thể dẫn đến một số hậu quả trên thị trường lao động:
-
-- Tăng cung lao động: Khi mức lương tối thiểu tăng, nhiều người có thể bị thu hút vào thị trường lao động vì họ thấy rằng công việc hiện tại của mình có thể mang lại thu nhập tốt hơn so với trước đây. Điều này làm tăng cung lao động.
-
-- Giảm nhu cầu về lao động: Các doanh nghiệp có thể phải đối mặt với chi phí lao động tăng cao khi phải trả mức lương tối thiểu mới. Để duy trì lợi nhuận, họ có thể tìm cách cắt giảm chi phí bằng cách giảm số lượng lao động cần thiết thông qua tự động hóa hoặc tối ưu hóa quy trình. Điều này làm giảm nhu cầu về lao động.
-
-- Tình trạng dư thừa lao động và tỷ lệ thất nghiệp cao hơn: Khi cung lao động tăng nhưng nhu cầu về lao động giảm, thị trường lao động có thể rơi vào tình trạng dư thừa lao động. Điều này có nghĩa là có nhiều người sẵn sàng làm việc ở mức lương tối thiểu mới nhưng không đủ việc làm cho tất cả họ, dẫn đến tỷ lệ thất nghiệp tăng cao.
-
-Vì vậy, lựa chọn C (""Nó sẽ tạo ra tình trạng dư thừa lao động, dẫn đến tỷ lệ thất nghiệp cao hơn"") là câu trả lời chính xác nhất cho câu hỏi về ảnh hưởng của việc tăng mức lương tối thiểu lên thị trường lao động khi nó được đặt ở mức cao hơn mức lương cân bằng.",C,1.0,0.0
-"Đánh giá tích phân xác định $\int_0^1 \frac{\ln(1 + x)}{1 + x} \, dx$.","Để đánh giá tích phân xác định $\int_0^1 \frac{\ln(1 + x)}{1 + x} \, dx$, ta có thể sử dụng phương pháp thay thế biến.
-
-Đặt $u = \ln(1 + x)$, khi đó $du = \frac{1}{1 + x} \, dx$. 
-
-Khi $x = 0$, $u = \ln(1 + 0) = \ln 1 = 0$.
-
-Khi $x = 1$, $u = \ln(1 + 1) = \ln 2$.
-
-Vậy tích phân trở thành:
-
-$\int_0^1 \frac{\ln(1 + x)}{1 + x} \, dx = \int_0^{\ln 2} u \, du$
-
-$= \left[ \frac{u^2}{2} \right]_0^{\ln 2}$
-
-$= \frac{(\ln 2)^2}{2} - \frac{(0)^2}{2}$
-
-$= \frac{\ln^2 2}{2}$
-
-Vậy đáp án là A. $\frac{\ln^2 2}{2}$.",A,1.0,0.0
-"Hệ thống chính trị là chỉnh thể các thiết chế thực thi quyền lực chính trị, bao gồm các bộ phận cấu thành là:","D. Tất cả các phương án trên
-
-Giải thích: Hệ thống chính trị là chỉnh thể các thiết chế thực thi quyền lực chính trị, bao gồm các bộ phận cấu thành là: Đảng chính trị, Nhà nước và các tổ chức chính trị-xã hội.",D,1.0,0.0
-"Xét các điểm $ A(1, 2) $, $ B(4, 6) $, và $ C(7, 2) $ trong mặt phẳng tọa độ. Một đường thẳng $ L $ đi qua điểm $ A $ và song song với đoạn thẳng $ BC $. Phương trình của đường thẳng $ L $ là gì?","Để tìm phương trình của đường thẳng $L$ đi qua điểm $A(1, 2)$ và song song với đoạn thẳng $BC$, ta cần thực hiện các bước sau:
-
-Bước 1: Tìm độ dốc của đoạn thẳng $BC$
-
-Độ dốc của đoạn thẳng $BC$ được tính bằng công thức:
-
-$$m_{BC} = \frac{y_C - y_B}{x_C - x_B}$$
-
-Thay tọa độ của điểm $B(4, 6)$ và $C(7, 2)$ vào công thức trên, ta có:
-
-$$m_{BC} = \frac{2 - 6}{7 - 4} = \frac{-4}{3}$$
-
-Vì đường thẳng $L$ song song với đoạn thẳng $BC$, nên độ dốc của đường thẳng $L$ cũng là $\frac{-4}{3}$.
-
-Bước 2: Tìm phương trình của đường thẳng $L$
-
-Phương trình của đường thẳng $L$ có dạng:
-
-$$y = mx + b$$
-
-trong đó $m$ là độ dốc của đường thẳng $L$, và $b$ là hệ số tự do.
-
-Ta đã biết độ dốc của đường thẳng $L$ là $\frac{-4}{3}$, nên phương trình của đường thẳng $L$ có dạng:
-
-$$y = -\frac{4}{3}x + b$$
-
-Bước 3: Tìm hệ số tự do $b$
-
-Để tìm hệ số tự do $b$, ta sử dụng tọa độ của điểm $A(1, 2)$, vì đường thẳng $L$ đi qua điểm này.
-
-Thay tọa độ của điểm $A(1, 2)$ vào phương trình của đường thẳng $L$, ta có:
-
-$$2 = -\frac{4}{3}(1) + b$$
-
-Giải phương trình trên, ta có:
-
-$$b = \frac{10}{3}$$
-
-Vậy phương trình của đường thẳng $L$ là:
-
-$$y = -\frac{4}{3}x + \frac{10}{3}$$
-
-Đáp án đúng là C. $ y = -\frac{4}{3}x + \frac{10}{3} $.",C,1.0,0.0
+Câu hỏi: Theo dữ liệu được cung cấp, quốc gia nào có tỷ lệ người không theo tôn giáo (không tuyên xưng bất kỳ tôn giáo cụ thể nào) cao nhất?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',B,0.0,0.0
+"Một nhà độc quyền đối mặt với đường cầu tuyến tính và chi phí biên không đổi. Nếu chính phủ áp đặt một khoản thuế theo đơn vị lên nhà độc quyền,",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',A,0.0,0.0
+"Một quả bóng bay hình cầu có bán kính $ R $ đang được bơm phồng. Áp suất bên trong quả bóng tỷ lệ thuận với lực căng bề mặt $ \sigma $ và tỷ lệ nghịch với bán kính $ R $. Nếu bán kính của quả bóng được nhân đôi, áp suất bên trong quả bóng thay đổi theo nhân tử nào?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',B,0.0,0.0
+"Một con lắc có chiều dài $ L $ được dịch chuyển bởi một góc nhỏ $ \theta_0 $ và được thả ra từ trạng thái nghỉ. Con lắc chịu tác dụng của một lực cản tỉ lệ với vận tốc góc của nó, với hệ số cản $ b $. Chuyển động của con lắc được mô tả bởi phương trình vi phân $ \frac{d^2\theta}{dt^2} + \frac{b}{mL} \frac{d\theta}{dt} + \frac{g}{L} \theta = 0 $, trong đó $ m $ là khối lượng của quả nặng con lắc, và $ g $ là gia tốc trọng trường. Trong số các câu sau, câu nào mô tả tốt nhất hành vi của độ dịch góc $ \theta(t) $ của con lắc theo thời gian?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',E,0.0,0.0
+Giải pháp nào sau đây được đề xuất để xử lý lỗi xác thực khi nộp hồ sơ thẩm duyệt thiết kế về phòng cháy và chữa cháy?,module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',B,0.0,0.0
+Làm thế nào một sự gia tăng mức lương tối thiểu có thể ảnh hưởng đến thị trường lao động nếu nó được đặt ở mức cao hơn mức lương cân bằng?,module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',C,0.0,0.0
+"Đánh giá tích phân xác định $\int_0^1 \frac{\ln(1 + x)}{1 + x} \, dx$.",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',A,0.0,0.0
+"Hệ thống chính trị là chỉnh thể các thiết chế thực thi quyền lực chính trị, bao gồm các bộ phận cấu thành là:",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',D,0.0,0.0
+"Xét các điểm $ A(1, 2) $, $ B(4, 6) $, và $ C(7, 2) $ trong mặt phẳng tọa độ. Một đường thẳng $ L $ đi qua điểm $ A $ và song song với đoạn thẳng $ BC $. Phương trình của đường thẳng $ L $ là gì?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',C,0.0,0.0
 "Đoạn thông tin:
 [1] Tiêu đề: Ném đá
 Nội dung: Thạch hình là một phương pháp tử hình trong đó một nhóm người ném đá vào người cho đến khi đối tượng chết vì chấn thương cùn. Nó đã được chứng thực như một hình thức trừng phạt cho những hành vi sai trái nghiêm trọng từ thời cổ đại. Việc áp dụng nó trong một số hệ thống pháp lý đã gây ra tranh cãi trong những thập kỷ gần đây.
@@ -1059,8 +469,8 @@ một người đã thuyết phục người khác tôn thờ các biểu tượ
 và một người đã lừa đảo cả một thị trấn - המד
 một phù thủy (nam hoặc nữ) - המכשף
 một đứa con trai bướng bỉnh và nổi loạn - בןVì một mình Thiên Chúa được coi là trọng tài duy nhất trong việc sử dụng hình phạt tử hình, không phải là người trần, sách Sanhedrin đã coi ném đá là cận trên giả thuyết về mức độ nghiêm trọng của hình phạt.
-Câu hỏi: Theo nội dung được cung cấp, trong các tội danh sau đây, tội nào được quy định trong Torah (cụ thể là Deuteronomy) là bị xử tử bằng hình thức ném đá?","Unexpected VNPT API response format: {'dataSign': 'CbYKYHAuHVag3PK4OTem337CrIpGRU+RYUDaoT+HkmjSV1pbqjPludhcy1QJ4oltAtGNme7PCIA+MY7jDvx5iA==', 'dataBase64': 'eyJlcnJvciI6eyJjb2RlIjo0MDAsInBhcmFtIjpudWxsLCJtZXNzYWdlIjoiWGluIGzhu5dpLCBWTlBUIExMTSBoaeG7h24gdOG6oWkga2jDtG5nIHRo4buDIHRy4bqjIGzhu51pIGPDonUgaOG7j2kgY+G7p2EgYuG6oW4gduG7gSBjw6FjIHbhuqVuIMSR4buBIHRyw6puLiBWdWkgbMOybmcgaMOjeSDEkeG6t3QgY8OidSBo4buPaSBs4buLY2ggc+G7sSwgYW4gdG/DoG4sIHBow7kgaOG7o3AgduG7m2kgdGh14bqnbiBwaG9uZyBt4bu5IHThu6VjIGPhu6dhIFZp4buHdCBOYW0uIiwidHlwZSI6IkJhZFJlcXVlc3RFcnJvciJ9LCJjaGFsbGVuZ2VDb2RlIjoiMTExMTEifQ==', 'logID': 'da1e82b4-d5d8-11f0-b581-2dd6fff37125-97414a08-Zuulserver', 'error': {'code': 400, 'param': None, 'message': 'Xin lỗi, VNPT LLM hiện tại không thể trả lời câu hỏi của bạn về các vấn đề trên. Vui lòng hãy đặt câu hỏi lịch sự, an toàn, phù hợp với thuần phong mỹ tục của Việt Nam.', 'type': 'BadRequestError'}, 'challengeCode': '11111'}",D,0.0,0.0
-"Theo Tư tưởng Hồ Chí Minh, điều kiện để quyền của nhân dân được bảo đảm là gì?",Đáp án A. Nhân dân làm tốt nghĩa vụ công dân đối với đất nước,A,1.0,0.0
+Câu hỏi: Theo nội dung được cung cấp, trong các tội danh sau đây, tội nào được quy định trong Torah (cụ thể là Deuteronomy) là bị xử tử bằng hình thức ném đá?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',D,0.0,0.0
+"Theo Tư tưởng Hồ Chí Minh, điều kiện để quyền của nhân dân được bảo đảm là gì?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',A,0.0,0.0
 "Đoạn thông tin:
 -- Đoạn văn 1 --
 Tiêu đề: Giao phối lựa chọn
@@ -1085,71 +495,13 @@ Nội dung: Người ta quan sát trong một cái hồ có hai loài cá giốn
 -- Đoạn văn 6 --
 Tiêu đề: Giao phối lựa chọn - Đại cương.
 Nội dung: Đôi khi, việc giao phối có thể phát sinh do hậu quả của cạnh tranh xã hội. Đặc điểm ở một số cá thể có thể chỉ ra khả năng cạnh tranh cho phép họ chiếm lĩnh các lãnh thổ tốt nhất. Các cá thể có đặc điểm tương tự chiếm lãnh thổ tương tự có nhiều khả năng giao phối với nhau. Trong kịch bản này, giao phối cùng loại không nhất thiết phát sinh từ sự lựa chọn, mà là do sự gần gũi. Điều này đã được ghi nhận ở chim xanh phương tây mặc dù không có bằng chứng xác định rằng đây là yếu tố chính dẫn đến việc giao phối phụ thuộc màu sắc ở loài này. Các yếu tố khác nhau có thể được áp dụng đồng thời để dẫn đến giao phối phân loại ở bất kỳ loài nào.
-Câu hỏi: Theo các đoạn văn, cơ chế nào sau đây trực tiếp dẫn đến việc hình thành loài mới trong ví dụ về hai loài cá ở hồ có màu sắc khác nhau nhưng hình thái giống nhau?","Câu trả lời đúng: C. Giao phối chọn lựa dương tính (positive assortative mating) dựa trên màu sắc
-
-Giải thích: 
-- Đoạn văn 1 và đoạn văn 5 đều đề cập đến ví dụ về hai loài cá ở hồ có màu sắc khác nhau nhưng hình thái giống nhau. 
-- Đoạn văn 1 nêu rõ: ""Người ta quan sát trong một cái hồ có hai loài cá giống nhau về hình thái nhưng khác nhau về màu sắc và tập tính giao phối của chúng là cùng màu thì giao phối với nhau, khác màu thì lại không giao phối từ đó dần dần chúng sẽ tách biệt quần thể và hình thành loài bằng cơ chế cách li tập tính gắn với đặc điểm liên quan tới tập tính giao phối, theo đó các cá thể đó có xu hướng thích giao phối với nhau (giao phối có chọn lọc) lâu dần, sự khác biệt về vốn gen do giao phối không ngẫu nhiên và do các nhân tố khác có thể dẫn tới cách li sinh sản từ đó hình thành loài mới.""
-- Đoạn văn 5 cũng khẳng định: ""Người ta quan sát trong một cái hồ có hai loài cá giống nhau về hình thái nhưng khác nhau về màu sắc và tập tính giao phối của chúng là cùng màu thì giao phối với nhau, khác màu thì lại không giao phối từ đó dần dần chúng sẽ tách biệt quần thể và hình thành loài bằng cơ chế cách li tập tính gắn với đặc điểm liên quan tới tập tính giao phối, theo đó các cá thể đó có xu hướng thích giao phối với nhau (giao phối có chọn lọc) lâu dần, sự khác biệt về vốn gen do giao phối không ngẫu nhiên và do các nhân tố khác có thể dẫn tới cách li sinh sản từ đó hình thành loài mới.""
-- Cả hai đoạn văn đều chỉ ra rằng, cơ chế trực tiếp dẫn đến việc hình thành loài mới trong ví dụ về hai loài cá ở hồ có màu sắc khác nhau nhưng hình thái giống nhau là giao phối chọn lựa dương tính (positive assortative mating) dựa trên màu sắc.",C,1.0,0.0
-"Vào ngày 30 tháng 1 năm 2019, Printing Plus đã mua nguyên vật liệu trả chậm với giá 500 đô la, khoản thanh toán sẽ được thực hiện trong vòng ba tháng. Tác động đến phương trình kế toán là gì?","Đáp án đúng: D. Tài sản tăng 500 đô la và nợ phải trả tăng 500 đô la
-
-Giải thích:
-
-Khi Printing Plus mua nguyên vật liệu trả chậm với giá 500 đô la, điều này có nghĩa là công ty đã nhận được tài sản (nguyên vật liệu) nhưng chưa phải thanh toán ngay lập tức. Thay vào đó, khoản thanh toán sẽ được thực hiện trong vòng ba tháng.
-
-Trong trường hợp này, tác động đến phương trình kế toán như sau:
-
-- Tài sản tăng 500 đô la: Công ty đã nhận được nguyên vật liệu trị giá 500 đô la, do đó tài sản của công ty tăng lên.
-- Nợ phải trả tăng 500 đô la: Vì công ty chưa thanh toán ngay lập tức, nên khoản nợ phải trả cũng tăng lên tương ứng với giá trị của nguyên vật liệu mua.
-
-Do đó, đáp án đúng là D. Tài sản tăng 500 đô la và nợ phải trả tăng 500 đô la.",D,1.0,0.0
-"Một công ty đang xem xét việc đầu tư vào một dòng sản phẩm mới. Lợi nhuận kỳ vọng trên vốn đầu tư là 15%, nhưng có khả năng 20% dòng sản phẩm này sẽ thất bại và dẫn đến mức lỗ 10%. Giá trị kỳ vọng của khoản đầu tư này là bao nhiêu?","Để tính giá trị kỳ vọng của khoản đầu tư, chúng ta cần xem xét cả lợi nhuận kỳ vọng và khả năng thất bại.
-
-Lợi nhuận kỳ vọng trên vốn đầu tư là 15%.
-
-Khả năng thất bại là 20%, dẫn đến mức lỗ 10%.
-
-Giá trị kỳ vọng của khoản đầu tư được tính bằng cách nhân lợi nhuận kỳ vọng với xác suất thành công và trừ đi mức lỗ nhân với xác suất thất bại.
-
-Xác suất thành công = 100% - 20% = 80%
-
-Giá trị kỳ vọng = (Lợi nhuận kỳ vọng * Xác suất thành công) - (Mức lỗ * Xác suất thất bại)
-= (15% * 80%) - (10% * 20%)
-= 12% - 2%
-= 10%
-
-Vậy giá trị kỳ vọng của khoản đầu tư này là 10%.
-
-Đáp án đúng: D. 10%",D,1.0,0.0
-Tại sao cần có cơ chế thu thập thông tin trong doanh nghiệp?,Đáp án: B,B,1.0,0.0
-Hệ điều hành sử dụng kỹ thuật cấp phát bộ nhớ liên tục sẽ đễ xảy ra hiện tượng phân mảnh trong bộ nhớ. Nguyên nhân là do đâu?,"Đáp án A. Các tiến trình thường xuyên được “nạp” rồi “xóa” (kết thúc) khỏi bộ nhớ.
-
-Giải thích: Hệ điều hành sử dụng kỹ thuật cấp phát bộ nhớ liên tục sẽ dễ xảy ra hiện tượng phân mảnh trong bộ nhớ. Nguyên nhân là do các tiến trình thường xuyên được “nạp” rồi “xóa” (kết thúc) khỏi bộ nhớ. Khi một tiến trình kết thúc, bộ nhớ mà nó chiếm dụng sẽ được giải phóng. Tuy nhiên, nếu không có cơ chế quản lý bộ nhớ hiệu quả, các vùng bộ nhớ này có thể trở nên phân mảnh, dẫn đến việc không thể sử dụng chúng một cách tối ưu.
-
-Ví dụ, giả sử có 100 MB bộ nhớ và có 5 tiến trình đang chạy, mỗi tiến trình chiếm dụng 20 MB. Khi một tiến trình kết thúc, 20 MB bộ nhớ đó sẽ được giải phóng. Tuy nhiên, nếu không có cơ chế quản lý bộ nhớ hiệu quả, 20 MB bộ nhớ đó có thể trở nên phân mảnh, dẫn đến việc không thể sử dụng chúng một cách tối ưu.
-
-Do đó, đáp án A là đúng. Các tiến trình thường xuyên được “nạp” rồi “xóa” (kết thúc) khỏi bộ nhớ là nguyên nhân chính dẫn đến hiện tượng phân mảnh trong bộ nhớ khi sử dụng kỹ thuật cấp phát bộ nhớ liên tục.",A,1.0,0.0
-"Theo Chủ Tịch Hồ Chí Minh, học để làm gì?","Câu trả lời đúng: C. Làm người.
-
-Giải thích: Theo Chủ tịch Hồ Chí Minh, mục đích của việc học không chỉ là để có kiến thức, kỹ năng hay để trở thành cán bộ, mà quan trọng hơn là để ""làm người"". Điều này có nghĩa là việc học phải giúp con người trở nên tốt đẹp hơn, có đạo đức, có trách nhiệm với bản thân, gia đình và xã hội. Quan điểm này nhấn mạnh tầm quan trọng của giáo dục trong việc hình thành nhân cách và giá trị sống của con người.",D,0.0,0.0
-Câu hỏi nào dưới đây mô tả tốt nhất vai trò của các thiên kiến nhận thức trong quá trình ra quyết định?,"Câu trả lời đúng: C
-
-Giải thích:
-
-Các thiên kiến nhận thức đóng vai trò quan trọng trong quá trình ra quyết định của con người. Chúng thường xuất hiện khi chúng ta sử dụng các quy tắc ngón tay cái (heuristics) để đưa ra quyết định nhanh chóng và hiệu quả, đặc biệt là trong những tình huống phức tạp hoặc khi thông tin hạn chế. Mặc dù các thiên kiến nhận thức có thể giúp chúng ta tiết kiệm thời gian và công sức, nhưng chúng cũng có thể dẫn đến những quyết định không chính xác hoặc không tối ưu nếu không được nhận thức và kiểm soát.
-
-Lựa chọn C (""Các thiên kiến nhận thức giúp cá nhân đưa ra quyết định nhanh hơn bằng cách dựa vào các cách tiếp cận heuristics."") mô tả tốt nhất vai trò của các thiên kiến nhận thức trong quá trình ra quyết định. Các lựa chọn khác không chính xác vì:
-
-- A sai vì các thiên kiến nhận thức không đảm bảo rằng tất cả các quyết định đều được đưa ra một cách hợp lý và không có sai sót; thực tế, chúng có thể dẫn đến quyết định sai lầm.
-- B sai vì mặc dù một số thiên kiến nhận thức có thể là bẩm sinh, nhưng nhiều thiên kiến khác có thể bị ảnh hưởng hoặc giảm thiểu bởi nhận thức cá nhân, giáo dục, và trải nghiệm.
-- D sai vì các thiên kiến nhận thức không chỉ dựa trên ảnh hưởng văn hóa và xã hội mà còn có thể mang tính phổ quát, ảnh hưởng đến hành vi con người trên toàn cầu.
-- E sai vì các thiên kiến nhận thức rất liên quan đến việc hiểu hành vi con người và quá trình ra quyết định.
-- F sai vì mặc dù giáo dục và đào tạo có thể giúp giảm thiểu tác động của các thiên kiến nhận thức, nhưng chúng không thể được loại bỏ hoàn toàn.
-- G sai vì các thiên kiến nhận thức có thể ảnh hưởng đến quá trình ra quyết định trong cả tình huống căng thẳng cao và cuộc sống hàng ngày.
-- H sai vì các thiên kiến nhận thức không cho thấy tất cả các cá nhân đều ra quyết định theo cùng một cách; thực tế, chúng có thể biểu hiện khác nhau tùy thuộc vào cá nhân và ngữ cảnh.
-- I sai vì các thiên kiến nhận thức không chỉ mang tính tích cực; chúng có thể dẫn đến kết quả tiêu cực nếu không được nhận thức và kiểm soát.
-- J sai vì khái niệm về các thiên kiến nhận thức vẫn được chấp nhận rộng rãi trong lĩnh vực tâm lý học và khoa học nhận thức như một phần quan trọng của quá trình ra quyết định của con người.",C,0.0,0.0
+Câu hỏi: Theo các đoạn văn, cơ chế nào sau đây trực tiếp dẫn đến việc hình thành loài mới trong ví dụ về hai loài cá ở hồ có màu sắc khác nhau nhưng hình thái giống nhau?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',C,0.0,0.0
+"Vào ngày 30 tháng 1 năm 2019, Printing Plus đã mua nguyên vật liệu trả chậm với giá 500 đô la, khoản thanh toán sẽ được thực hiện trong vòng ba tháng. Tác động đến phương trình kế toán là gì?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',D,0.0,0.0
+"Một công ty đang xem xét việc đầu tư vào một dòng sản phẩm mới. Lợi nhuận kỳ vọng trên vốn đầu tư là 15%, nhưng có khả năng 20% dòng sản phẩm này sẽ thất bại và dẫn đến mức lỗ 10%. Giá trị kỳ vọng của khoản đầu tư này là bao nhiêu?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',D,0.0,0.0
+Tại sao cần có cơ chế thu thập thông tin trong doanh nghiệp?,module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',B,0.0,0.0
+Hệ điều hành sử dụng kỹ thuật cấp phát bộ nhớ liên tục sẽ đễ xảy ra hiện tượng phân mảnh trong bộ nhớ. Nguyên nhân là do đâu?,module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',A,0.0,0.0
+"Theo Chủ Tịch Hồ Chí Minh, học để làm gì?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',D,0.0,0.0
+Câu hỏi nào dưới đây mô tả tốt nhất vai trò của các thiên kiến nhận thức trong quá trình ra quyết định?,module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',C,0.0,0.0
 "Đoạn thông tin:
 [1] Tiêu đề: Akagi (tàu sân bay Nhật)
 Nội dung: Akagi (tiếng Nhật: 赤城; Hán-Việt: Xích Thành) là một tàu sân bay của Hải quân Đế quốc Nhật Bản hoạt động trong Chiến tranh Thế giới thứ hai, được đặt tên theo núi Akagi thuộc tỉnh Gunma. Tàu được đặt lườn như một tàu chiến-tuần dương và thuộc lớp Amagi, Akagi được cải biến thành tàu sân bay trong lúc còn đang được chế tạo nhằm tuân thủ theo những điều khoản của Hiệp ước Hải quân Washington. Sau khi Đế quốc Nhật Bản rút lui khỏi hiệp ước vào cuối năm 1934, con tàu được tái cấu trúc từ năm 1935 đến năm 1938, khi ba sàn cất hạ cánh được gộp chung thành một sàn đáp duy nhất mở rộng và một đảo cấu trúc thượng tầng. Là chiếc tàu sân bay Nhật Bản thứ hai được đưa vào hoạt động và là chiếc tàu sân bay lớn đầu tiên (còn gọi tàu sân bay hạm đội), Akagi có vai trò nổi bật trong việc phát triển học thuyết lực lượng tấn công tàu sân bay mang tính cách mạng, trong đó tập hợp các tàu sân bay lại để có sức mạnh không lực tập trung. Học thuyết này đã giúp Nhật Bản đạt được những mục tiêu chiến lược trong sáu tháng đầu tiên của trận chiến Thái Bình Dương.
@@ -1162,120 +514,15 @@ I. Mô tả
 Akagi ban đầu được đặt lườn tại Xưởng hải quân Kure vào ngày 6 tháng 12 năm 1920 như một tàu chiến-tuần dương lớp Amagi. Tuy nhiên công việc chế tạo bị tạm dừng sau khi Nhật Bản ký Hiệp ước Hải quân Washington vào ngày 6 tháng 2 năm 1922. Hiệp ước này giới hạn việc chế tạo thiết giáp hạm và tàu chiến-tuần dương, cho dù nó cho phép cải biến hai lườn tàu thiết giáp hạm hay tàu chiến-tuần dương đang chế tạo thành tàu sân bay với trọng lượng choán nước tối đa đến 33.000 tấn Anh (34.000 t). Hải quân Đế quốc Nhật Bản đã quyết định, sau khi sở hữu chiếc tàu sân bay đầu tiên là chiếc Hōshō, sẽ tiếp tục đóng hai tàu sân bay lớn hơn và nhanh hơn để hoạt động cùng các đơn vị hạm đội chủ lực khác. Các lườn tàu chưa hoàn tất của Amagi và Akagi được chọn để hoàn tất như những tàu sân bay lớn trong khuôn khổ của chương trình chế tạo hạm đội 1924, và những chiếc tàu chiến-tuần dương còn lại trong lớp này là Atago và Takao phải hủy bỏ và tháo dỡ theo Hiệp ước Washington. Thoạt tiên một ngân khoản 24,7 triệu Yên được dành cho việc hoàn tất Akagi, và ước lượng khoảng 8 triệu Yên đã được chi ra khi công việc chế tạo ngừng lại vào tháng 2 năm 1922. Không lâu sau đó Quốc hội Nhật Bản chấp thuận một ngân khoảng bổ sung 90 triệu Yên để hoàn tất Amagi và Akagi như những tàu sân bay.
 
 Việc cấu trúc Akagi như một tàu sân bay được bắt đầu vào ngày 19 tháng 11 năm 1923. Tuy nhiên, trong trận động đất Kantō 1923 (Quan Đông đại chấn tai) ngày 1 tháng 9 năm 1923 tại khu vực Tokyo, lườn của Amagi bị hư hại nặng đến mức không thể phục hồi một cách kinh tế, nên nó bị hủy bỏ và tháo dỡ. Akagi, chiếc duy nhất còn lại trong lớp, được hạ thủy vào ngày 22 tháng 4 năm 1925 và đưa ra hoạt động tại Xưởng Hải quân Kure vào ngày 25 tháng 3 năm 1927, cho dù công việc chạy thử máy kéo dài cho đến tận tháng 11 năm 1927. Nó là chiếc tàu sân bay thứ hai được đưa vào hoạt động cùng Hải quân Đế quốc Nhật Bản, sau chiếc Hōshō và trước chiếc Kaga (nguyên cải biến từ lườn một thiết giáp hạm lớp Tosa bị hủy bỏ để thay thế cho Amagi).Vì Akagi thoạt tiên được hình thành như một tàu chiến-tuần dương, tên của nó được đặt theo tên một ngọn núi theo thông lệ đặt tên tàu chiến của Hải quân Đế quốc Nhật Bản vào thời đó. Tên Akagi được đặt theo núi Akagi, một núi lửa lớn tại vùng Kantō. Sau khi được cải tạo thành tàu sân bay, cái tên có nguồn gốc núi này vẫn được giữ lại, tương phản với những tàu sân bay khác như Sōryū, vốn được thiết kế như những tàu sân bay ngay từ đầu và được đặt tên theo những loài chim. Trước đó, tên Akagi được đặt cho một pháo hạm thuộc lớp Maya.Akagi được hoàn tất với chiều dài chung 261,21 mét (857 ft 0 in). Nó có mạn thuyền rộng 31 mét (101 ft 8 in) và độ sâu mớn nước 8,08 mét (26 ft 6 in) khi đầy tải. Con tàu có trọng lượng choán nước 26.900 tấn Anh (27.300 t) ở tải trọng tiêu chuẩn, và 34.364 tấn Anh (34.920 t) khi đầy tải, nhẹ hơn gần 7.000 tấn Anh (7.100 t) so với trọng lượng thiết kế như một tàu chiến-tuần dương. Thủy thủ đoàn đầy đủ của nó gồm 1.600 thành viên.
-Câu hỏi: Akagi đã đóng vai trò gì trong việc phát triển học thuyết hải quân của Nhật Bản?",B. Phát triển học thuyết tấn công bằng tàu sân bay mang tính cách mạng,B,1.0,0.0
-"Trong một cuộc cạnh tranh Cournot với hai doanh nghiệp, mỗi doanh nghiệp có chi phí biên sản xuất không đổi là $ c $ và hàm cầu thị trường được cho bởi $ Q = a - P $, trong đó $ P $ là giá và $ a $ là một hằng số dương. Nếu cả hai doanh nghiệp chọn lượng sản phẩm của họ đồng thời và độc lập, thì phát biểu nào sau đây là đúng về lượng cân bằng Nash $ q^* $ cho mỗi doanh nghiệp?","Để tìm lượng cân bằng Nash $q^*$ cho mỗi doanh nghiệp trong cuộc cạnh tranh Cournot, chúng ta cần thực hiện các bước sau:
-
-1. Xác định hàm lợi nhuận của mỗi doanh nghiệp.
-2. Tìm điều kiện tối ưu hóa lợi nhuận cho mỗi doanh nghiệp.
-3. Giải hệ phương trình để tìm lượng cân bằng Nash.
-
-**Bước 1: Xác định hàm lợi nhuận**
-
-Giả sử doanh nghiệp 1 và doanh nghiệp 2 có lượng sản phẩm lần lượt là $q_1$ và $q_2$. Tổng lượng sản phẩm trên thị trường là $Q = q_1 + q_2$.
-
-Hàm cầu thị trường được cho bởi $P = a - Q$, trong đó $P$ là giá và $a$ là một hằng số dương.
-
-Chi phí sản xuất của mỗi doanh nghiệp là $c \times q_i$, trong đó $c$ là chi phí biên sản xuất không đổi.
-
-Lợi nhuận của doanh nghiệp 1 là $\pi_1 = P \times q_1 - c \times q_1 = (a - Q) \times q_1 - c \times q_1 = (a - q_1 - q_2) \times q_1 - c \times q_1$
-
-Tương tự, lợi nhuận của doanh nghiệp 2 là $\pi_2 = (a - q_1 - q_2) \times q_2 - c \times q_2$
-
-**Bước 2: Tìm điều kiện tối ưu hóa lợi nhuận**
-
-Để tối ưu hóa lợi nhuận, mỗi doanh nghiệp sẽ chọn lượng sản phẩm sao cho lợi nhuận đạt cực đại.
-
-Điều kiện tối ưu hóa lợi nhuận cho doanh nghiệp 1 là $\frac{\partial \pi_1}{\partial q_1} = 0$
-
-$\frac{\partial \pi_1}{\partial q_1} = a - 2q_1 - q_2 - c = 0$
-
-Tương tự, điều kiện tối ưu hóa lợi nhuận cho doanh nghiệp 2 là $\frac{\partial \pi_2}{\partial q_2} = 0$
-
-$\frac{\partial \pi_2}{\partial q_2} = a - 2q_2 - q_1 - c = 0$
-
-**Bước 3: Giải hệ phương trình**
-
-Chúng ta có hệ phương trình sau:
-
-$a - 2q_1 - q_2 - c = 0$
-
-$a - 2q_2 - q_1 - c = 0$
-
-Giải hệ phương trình này, chúng ta tìm được:
-
-$q_1 = q_2 = \frac{a - c}{3}$
-
-Vậy lượng cân bằng Nash $q^*$ cho mỗi doanh nghiệp là $\frac{a - c}{3}$.
-
-Đáp án đúng là B. $ q^* = \frac{a - c}{3} $.",B,1.0,0.0
-Văn hóa vật thể là những hiện tượng văn hóa nào?,"Câu trả lời đúng: C. Các hiện tượng văn hóa hữu hình có thể tiếp xúc trực tiếp qua các giác quan
-
-Giải thích: Văn hóa vật thể là những hiện tượng văn hóa hữu hình, có thể tiếp xúc trực tiếp qua các giác quan như nhìn, nghe, sờ, nếm, ngửi. Ví dụ về văn hóa vật thể bao gồm:
-
-- Các công trình kiến trúc như nhà cửa, đền thờ, chùa chiền
-- Các tác phẩm nghệ thuật như tranh vẽ, điêu khắc, âm nhạc
-- Các sản phẩm thủ công như đồ gỗ, đồ gốm, dệt may
-- Các món ăn truyền thống và cách chế biến chúng
-- Các loại trang phục truyền thống và phụ kiện đi kèm
-
-Những hiện tượng văn hóa này đều có thể được trải nghiệm và tiếp xúc trực tiếp thông qua các giác quan của con người. Do đó, lựa chọn C là câu trả lời chính xác nhất.",C,1.0,0.0
-"Khoảng cách giữa hai cực của ống phóng tia X bằng 2 cm, hiệu điện thế giữa hai cực là 100 kV. Cường độ điện trường giữa hai cực bằng:","Để tính cường độ điện trường giữa hai cực của ống phóng tia X, ta sử dụng công thức:
-
-E = U/d
-
-Trong đó:
-- E là cường độ điện trường (đơn vị V/m)
-- U là hiệu điện thế giữa hai cực (đơn vị V)
-- d là khoảng cách giữa hai cực (đơn vị m)
-
-Cho biết:
-- Hiệu điện thế U = 100 kV = 100.000 V
-- Khoảng cách d = 2 cm = 0,02 m
-
-Thay số vào công thức:
-
-E = U/d = 100.000 / 0,02 = 5.000.000 V/m
-
-Vậy cường độ điện trường giữa hai cực bằng 5.000.000 V/m.
-
-Đáp án đúng: D. 5.000.000 V/m.",D,1.0,0.0
-Tính đa dạng sinh học của sinh vật biểu hiện ở:,"Đáp án A. Số lượng thành phần loài, các kiểu hệ sinh thái và các nguồn gen quý.
-
-Giải thích: Tính đa dạng sinh học của sinh vật biểu hiện ở số lượng thành phần loài, các kiểu hệ sinh thái và các nguồn gen quý. Đây là những yếu tố quan trọng giúp duy trì sự cân bằng và ổn định của hệ sinh thái, cũng như bảo vệ các nguồn gen quý giá cho tương lai.",A,1.0,0.0
-Nghệ thuật trong đoạn 1 bài 'Tinh thần yêu nước của nhân dân ta' là gì?,"Đáp án là C. Dùng dẫn chứng tiêu biểu.
-
-Giải thích: Đoạn 1 bài ""Tinh thần yêu nước của nhân dân ta"" sử dụng nghệ thuật dùng dẫn chứng tiêu biểu để minh họa cho tinh thần yêu nước của nhân dân Việt Nam. Tác giả đã chọn những ví dụ cụ thể, tiêu biểu như cuộc khởi nghĩa của Bà Trưng, Bà Triệu, Trần Hưng Đạo,... để thể hiện tinh thần yêu nước của nhân dân ta qua các thời kỳ lịch sử. Việc sử dụng dẫn chứng tiêu biểu giúp người đọc dễ dàng hình dung và hiểu rõ hơn về tinh thần yêu nước của nhân dân Việt Nam.",B,0.0,0.0
+Câu hỏi: Akagi đã đóng vai trò gì trong việc phát triển học thuyết hải quân của Nhật Bản?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',B,0.0,0.0
+"Trong một cuộc cạnh tranh Cournot với hai doanh nghiệp, mỗi doanh nghiệp có chi phí biên sản xuất không đổi là $ c $ và hàm cầu thị trường được cho bởi $ Q = a - P $, trong đó $ P $ là giá và $ a $ là một hằng số dương. Nếu cả hai doanh nghiệp chọn lượng sản phẩm của họ đồng thời và độc lập, thì phát biểu nào sau đây là đúng về lượng cân bằng Nash $ q^* $ cho mỗi doanh nghiệp?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',B,0.0,0.0
+Văn hóa vật thể là những hiện tượng văn hóa nào?,module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',C,0.0,0.0
+"Khoảng cách giữa hai cực của ống phóng tia X bằng 2 cm, hiệu điện thế giữa hai cực là 100 kV. Cường độ điện trường giữa hai cực bằng:",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',D,0.0,0.0
+Tính đa dạng sinh học của sinh vật biểu hiện ở:,module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',A,0.0,0.0
+Nghệ thuật trong đoạn 1 bài 'Tinh thần yêu nước của nhân dân ta' là gì?,module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',B,0.0,0.0
 "Trong vận chuyển bằng đường ống, sự giảm áp suất $ \Delta P $ trên một đoạn ống có chiều dài $ L $ được cho bởi phương trình Darcy-Weisbach:
 $$ \Delta P = f \cdot \frac{L}{D} \cdot \frac{\rho v^2}{2} $$
-trong đó $ f $ là hệ số ma sát Darcy, $ D $ là đường kính ống, $ \rho $ là mật độ chất lỏng, và $ v $ là tốc độ chất lỏng. Nếu một đường ống đang vận chuyển một chất lỏng có mật độ 800 kg/m³ với tốc độ 2 m/s trên quãng đường 500 mét, và đường kính ống là 0,4 mét, thì sự giảm áp suất là bao nhiêu nếu hệ số ma sát Darcy $ f $ là 0,015?","Để tính toán sự giảm áp suất $\Delta P$ dựa trên phương trình Darcy-Weisbach, chúng ta cần sử dụng các giá trị đã cho:
-
-- Hệ số ma sát Darcy ($f$): 0,015
-- Chiều dài ống ($L$): 500 mét
-- Đường kính ống ($D$): 0,4 mét
-- Mật độ chất lỏng ($\rho$): 800 kg/m³
-- Tốc độ chất lỏng ($v$): 2 m/s
-
-Thay các giá trị này vào phương trình Darcy-Weisbach:
-
-$$ \Delta P = f \cdot \frac{L}{D} \cdot \frac{\rho v^2}{2} $$
-
-$$ \Delta P = 0,015 \cdot \frac{500}{0,4} \cdot \frac{800 \cdot 2^2}{2} $$
-
-$$ \Delta P = 0,015 \cdot 1250 \cdot \frac{800 \cdot 4}{2} $$
-
-$$ \Delta P = 0,015 \cdot 1250 \cdot 1600 $$
-
-$$ \Delta P = 0,015 \cdot 2000000 $$
-
-$$ \Delta P = 30000 \text{ Pa} $$
-
-Chuyển đổi từ Pascal (Pa) sang kiloPascal (kPa):
-
-$$ \Delta P = 30000 \text{ Pa} / 1000 = 30 \text{ kPa} $$
-
-Vậy, sự giảm áp suất là 30 kPa.
-
-Đáp án đúng: B. 30 kPa",B,1.0,0.0
+trong đó $ f $ là hệ số ma sát Darcy, $ D $ là đường kính ống, $ \rho $ là mật độ chất lỏng, và $ v $ là tốc độ chất lỏng. Nếu một đường ống đang vận chuyển một chất lỏng có mật độ 800 kg/m³ với tốc độ 2 m/s trên quãng đường 500 mét, và đường kính ống là 0,4 mét, thì sự giảm áp suất là bao nhiêu nếu hệ số ma sát Darcy $ f $ là 0,015?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',B,0.0,0.0
 "Đoạn thông tin:
 -- Document 1 --
 Title: Lê Chiêu Thống
@@ -1296,80 +543,11 @@ Content: Tại Việt Nam, trước thời Hậu Lê thì các triều khác kh�
 -- Document 5 --
 Title: Lê Chiêu Thống - Chết trên xứ người.
 Content: Tháng giêng năm Kỷ Dậu (1789), Quang Trung kéo quân ra Bắc Hà, chỉ một trận quét sạch 29 vạn quân Thanh, Chiêu Thống lại phải theo bại quân nhà Thanh chạy sang Trung Quốc. Chiêu Thống lại tiếp tục xin nhà Thanh cho quân cứu viện. Nhà Thanh, phần sợ Quang Trung, phần vua Thanh đã già ngán ngẩm việc chinh chiến, chỉ hứa hão với Chiêu Thống mà không cho quân. Thân vương nhà Thanh là Phúc Khang An hứa giúp quân cho Chiêu Thống, nhưng lại tâu với vua Thanh Càn Long rằng Chiêu Thống không còn muốn trở về. Tháng Tư năm đó, theo lời tâu của Hòa Thân và Phúc Khang An, Càn Long phong Nguyễn Huệ là An Nam quốc vương và nhận tiếp sứ của nhà Tây Sơn.
-Câu hỏi: Lê Chiêu Thống đã được phong hàm nào khi được chọn làm trữ quân trong triều Hậu Lê?","Câu trả lời đúng là C. tự tôn.
-
-Theo Document 4, khi được chọn làm trữ quân, Lê Chiêu Thống được ghi chép là ""Hoàng tự tôn"" (hoặc ""Hoàng thái tôn"" theo Cương mục). Đây là danh xưng chỉ vị trí trữ quân của ông trong triều Hậu Lê.",C,1.0,0.0
-"Sự phát triển nhảy vọt về nhận thức, tư tưởng của Chủ Tịch Hồ Chí Minh từ một thanh niên yêu nước chân chính sang một chiến sĩ cộng sản sau khi Người đọc được văn kiện nào sau đây?",Đáp án là B,B,1.0,0.0
+Câu hỏi: Lê Chiêu Thống đã được phong hàm nào khi được chọn làm trữ quân trong triều Hậu Lê?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',C,0.0,0.0
+"Sự phát triển nhảy vọt về nhận thức, tư tưởng của Chủ Tịch Hồ Chí Minh từ một thanh niên yêu nước chân chính sang một chiến sĩ cộng sản sau khi Người đọc được văn kiện nào sau đây?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',B,0.0,0.0
 "Giả sử $ T: \mathbb{R}^3 \to \mathbb{R}^3 $ là một toán tử tuyến tính được biểu diễn bởi ma trận
-$$= \begin{pmatrix}& 1 & 0 \\& 2 & 1 \\& 0 & 2. Câu nào sau đây là đúng về các giá trị riêng của $ T $?","Để tìm các giá trị riêng của toán tử tuyến tính $T$, ta cần giải phương trình đặc trưng $\det(T - \lambda I) = 0$, trong đó $\lambda$ là giá trị riêng và $I$ là ma trận đơn vị.
-
-Ma trận $T$ được cho là:
-
-$$T = \begin{pmatrix}
-1 & 0 \\
-2 & 1 \\
-0 & 2
-\end{pmatrix}$$
-
-Phương trình đặc trưng là:
-
-$$\det(T - \lambda I) = \det\begin{pmatrix}
-1-\lambda & 0 \\
-2 & 1-\lambda \\
-0 & 2
-\end{pmatrix} = 0$$
-
-Mở rộng định thức, ta có:
-
-$$(1-\lambda)\left[(1-\lambda)(1-\lambda) - 0\right] - 0 + 0 = 0$$
-
-$$\Rightarrow (1-\lambda)^3 = 0$$
-
-$$\Rightarrow \lambda = 1$$
-
-Vậy, giá trị riêng duy nhất của toán tử tuyến tính $T$ là $\lambda = 1$. Do đó, không có lựa chọn nào trong danh sách A-J là chính xác.
-
-Tuy nhiên, nếu chúng ta xem xét lại ma trận $T$, ta thấy rằng nó không phải là một ma trận vuông (nó có kích thước $3 \times 2$). Điều này có nghĩa là toán tử tuyến tính $T$ không được định nghĩa rõ ràng trên toàn bộ không gian $\mathbb{R}^3$.
-
-Nếu chúng ta giả định rằng ma trận $T$ thực sự là một ma trận vuông $3 \times 3$, thì chúng ta có thể viết lại nó như sau:
-
-$$T = \begin{pmatrix}
-1 & 0 & 0 \\
-2 & 1 & 0 \\
-0 & 2 & 0
-\end{pmatrix}$$
-
-Trong trường hợp này, phương trình đặc trưng trở thành:
-
-$$\det(T - \lambda I) = \det\begin{pmatrix}
-1-\lambda & 0 & 0 \\
-2 & 1-\lambda & 0 \\
-0 & 2 & -\lambda
-\end{pmatrix} = 0$$
-
-Mở rộng định thức, ta có:
-
-$$(1-\lambda)\left[(1-\lambda)(-\lambda) - 0\right] - 0 + 0 = 0$$
-
-$$\Rightarrow (1-\lambda)(-\lambda)(1-\lambda) = 0$$
-
-$$\Rightarrow \lambda = 1, 0, 1$$
-
-Vậy, các giá trị riêng của toán tử tuyến tính $T$ là $\lambda = 1, 0, 1$. Tuy nhiên, điều này vẫn không khớp với bất kỳ lựa chọn nào trong danh sách A-J.
-
-Tóm lại, do ma trận $T$ không được định nghĩa rõ ràng trên toàn bộ không gian $\mathbb{R}^3$, nên không có lựa chọn nào trong danh sách A-J là chính xác. Nếu chúng ta giả định rằng ma trận $T$ thực sự là một ma trận vuông $3 \times 3$, thì các giá trị riêng của toán tử tuyến tính $T$ là $\lambda = 1, 0, 1$, nhưng điều này vẫn không khớp với bất kỳ lựa chọn nào trong danh sách A-J.",B,0.0,0.0
-"Nếu một tài khoản tiết kiệm có lãi suất danh nghĩa là 3% và tỷ lệ lạm phát là 2%, thì lãi suất thực là bao nhiêu?","Để tính lãi suất thực, chúng ta cần trừ tỷ lệ lạm phát khỏi lãi suất danh nghĩa.
-
-Lãi suất danh nghĩa = 3%
-Tỷ lệ lạm phát = 2%
-
-Lãi suất thực = Lãi suất danh nghĩa - Tỷ lệ lạm phát
-= 3% - 2%
-= 1%
-
-Vậy, lãi suất thực là 1%.
-
-Đáp án: A. 1%",A,1.0,0.0
+$$= \begin{pmatrix}& 1 & 0 \\& 2 & 1 \\& 0 & 2. Câu nào sau đây là đúng về các giá trị riêng của $ T $?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',B,0.0,0.0
+"Nếu một tài khoản tiết kiệm có lãi suất danh nghĩa là 3% và tỷ lệ lạm phát là 2%, thì lãi suất thực là bao nhiêu?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',A,0.0,0.0
 "Đoạn thông tin:
 Trường Đại học Bách khoa, Đại học Đà Nẵng
 Trường Đại học Bách khoa Đà Nẵng (tiếng Anh: The University of Danang - University of Science and Technology) là trường đại học chuyên ngành kỹ thuật đầu ngành tại Việt Nam, thành viên của hệ thống Đại học Đà Nẵng, được xếp vào nhóm đại học trọng điểm quốc gia Việt Nam. Đồng thời cũng là trung tâm nghiên cứu khoa học kỹ thuật và chuyển giao công nghệ hàng đầu khu vực, góp phần phục vụ yêu cầu phát triển kinh tế - xã hội của khu vực và cả nước, một trong ba trường Đại học Bách khoa chuyên đào tạo kỹ sư đa ngành theo định hướng nghiên cứu của Việt Nam.
@@ -1446,5 +624,5 @@ Khoa Xây dựng Cầu - Đường
 Khoa Xây dựng Thủy lợi - Thủy điện
 Khoa Xây dựng Dân dụng và Công nghiệp
 Khoa Khoa học Công nghệ tiên tiến
-Câu hỏi: Khoa Khoa học Công nghệ tiên tiến được thành lập năm 2017 dựa trên sự sáp nhập của ba đơn vị nào?","Câu trả lời đúng: A. Chương trình đào tạo Kỹ sư chất lượng cao (PFIEV), Chương trình đào tạo kỹ sư tiên tiến Việt - Mỹ và Trung tâm Xuất sắc",A,1.0,0.0
-Kết quả của việc chia thành phần x của một véc-tơ lực cho thành phần y của nó là gì?,Đáp án là A,D,0.0,0.0
+Câu hỏi: Khoa Khoa học Công nghệ tiên tiến được thành lập năm 2017 dựa trên sự sáp nhập của ba đơn vị nào?",module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',A,0.0,0.0
+Kết quả của việc chia thành phần x của một véc-tơ lực cho thành phần y của nó là gì?,module 'workspace.VNPT.workflows.round_7.prompt' has no attribute 'XXX_PROMPT',D,0.0,0.0

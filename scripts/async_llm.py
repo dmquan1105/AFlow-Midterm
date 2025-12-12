@@ -22,7 +22,6 @@ import logging
 
 logger = logging.getLogger(__name__)
 
-
 class LLMConfig:
     def __init__(self, config: dict):
         self.model = config.get("model", "gpt-4o-mini")
@@ -236,8 +235,8 @@ class VNPTAsyncLLM:
         elif "embedding" in model_name:
             self.endpoint = f"{config.base_url}/vnptai-hackathon-embedding"
         else:
-            # Default to large model
-            self.endpoint = f"{config.base_url}/v1/chat/completions/vnptai-hackathon-large"
+            # Default to small model
+            self.endpoint = f"{config.base_url}/v1/chat/completions/vnptai-hackathon-small"
     
     @retry(
         stop=stop_after_delay(3800),  # Max delay 3800 seconds
@@ -246,6 +245,7 @@ class VNPTAsyncLLM:
         before_sleep=before_sleep_log(logger, logging.WARNING),
         reraise=True
     )
+        
     async def __call__(self, prompt):
         """Call VNPT API with the given prompt"""
         message = []
