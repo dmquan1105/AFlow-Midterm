@@ -1,8 +1,7 @@
 from typing import Literal
-import workspace.VNPT.workflows.template.operator as operator
-import workspace.VNPT.workflows.round_4.prompt as prompt_custom
+import workspace.GSM8K.workflows.template.operator as operator
+import workspace.GSM8K.workflows.round_1.prompt as prompt_custom
 from scripts.async_llm import create_llm_instance
-
 
 from scripts.evaluator import DatasetType
 
@@ -16,11 +15,11 @@ class Workflow:
         self.name = name
         self.dataset = dataset
         self.llm = create_llm_instance(llm_config)
-        self.answer_generate = operator.AnswerGenerate(self.llm)
+        self.custom = operator.Custom(self.llm)
 
     async def __call__(self, problem: str):
         """
         Implementation of the workflow
         """
-        solution = await self.answer_generate(input=problem)
-        return solution['answer'], self.llm.get_usage_summary()["total_cost"]
+        solution = await self.custom(input=problem, instruction="")
+        return solution['response'], self.llm.get_usage_summary()["total_cost"]

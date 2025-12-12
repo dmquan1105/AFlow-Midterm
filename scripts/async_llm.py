@@ -16,7 +16,8 @@ from tenacity import (
     stop_after_delay,
     wait_exponential,
     retry_if_exception_type,
-    before_sleep_log
+    before_sleep_log,
+    retry_if_exception
 )
 import logging
 
@@ -136,6 +137,7 @@ class ModelPricing:
         # Google Gemini models
         "gemini-2.0-flash-exp": {"input": 0, "output": 0},  # Free during preview
         "gemini-2.0-flash": {"input": 0, "output": 0},  # Free during preview
+        "gemini-2.5-pro": {"input": 0.00125, "output": 0.005},
         # DeepSeek V3.2-Exp models (giá per 1K tokens)
         "deepseek-chat": {
             "input": 0.00028,
@@ -209,7 +211,10 @@ class TokenUsageTracker:
             "call_count": len(self.usage_history),
             "history": self.usage_history,
         }
-
+        
+class VNPT401RateLimitError(Exception):
+    """Raised when VNPT returns 401 rate limit or auth error."""
+    pass
 
 class VNPTAsyncLLM:
     """Async LLM client specifically for VNPT API"""
@@ -240,8 +245,8 @@ class VNPTAsyncLLM:
     
     @retry(
         stop=stop_after_delay(3800),  # Max delay 3800 seconds
-        wait=wait_exponential(multiplier=1, min=4, max=60),  # Exponential backoff: 4s, 8s, 16s, 32s, 60s, 60s...
-        retry=retry_if_exception_type((aiohttp.ClientError, Exception)),
+        wait=wait_exponential(multiplier=1, min=4, max=60),
+        retry=retry_if_exception(lambda e: isinstance(e, aiohttp.ClientError) or isinstance(e, VNPT401RateLimitError)),
         before_sleep=before_sleep_log(logger, logging.WARNING),
         reraise=True
     )
@@ -273,10 +278,16 @@ class VNPTAsyncLLM:
                 headers=headers,
                 json=payload
             ) as response:
+                if response.status == 401:
+                    text = await response.text()
+                    raise VNPT401RateLimitError(f"VNPT 401 Rate Limit / Auth Error: {text}")
+
+                # other non-200 (e.g., 403, 422, 500, etc.) -> do NOT retry per your requirement
                 if response.status != 200:
-                    error_text = await response.text()
-                    raise Exception(f"VNPT API error: {response.status} - {error_text}")
-                
+                    text = await response.text()
+                    raise Exception(f"VNPT API error {response.status}: {text}")
+
+                # If 200, parse JSON
                 result = await response.json()
                 
                 # Extract response content

@@ -16,6 +16,8 @@ optimized
 /workspace/VNPT_deepseek/workflows/**/__pycache__
 !/workspace/VNPT_gemini/workflows/**
 /workspace/VNPT_gemini/workflows/**/__pycache__
+!/workspace/VNPT_full_small/workflows/**
+/workspace/VNPT_full_small/workflows/**/__pycache__
 # Ignore all JSON files except results.json
 *.json
 !results.json
@@ -32,3 +34,5 @@ config/API_VNPT.pdf
 !/workspace/VNPT_deepseek/workflows/**/experience.json
 !/workspace/VNPT_gemini/workflows/**/log.json
 !/workspace/VNPT_gemini/workflows/**/experience.json
+!/workspace/VNPT_full_small/workflows/**/log.json
+!/workspace/VNPT_full_small/workflows/**/experience.json

@@ -100,7 +100,7 @@ def parse_args():
     parser.add_argument(
         "--opt_model_name",
         type=str,
-        default="vnpt-llm-small",
+        default="gemini-2.5-pro",
         help="Specifies the name of the model used for optimization tasks.",
     )
     parser.add_argument(

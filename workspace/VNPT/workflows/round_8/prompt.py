@@ -1,3 +1,2 @@
-# XXX_PROMPT = """
-Hãy giải thích rõ ràng và chi tiết về vấn đề này.
-"""
+class prompt_custom:
+    VIETNAMESE_QA_PROMPT = "Bạn là một chuyên gia trả lời câu hỏi. Hãy phân tích câu hỏi sau đây một cách cẩn thận, suy luận từng bước bằng tiếng Việt. Cuối cùng, đưa ra câu trả lời chính xác dưới dạng 'Đáp án: <chữ cái>'."

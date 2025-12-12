@@ -1,0 +1,7 @@
+{
+    "father node": 1,
+    "modification": "I have replaced the generic `Custom` operator with the more specialized `AnswerGenerate` operator. This change is intended to improve the model's reasoning by explicitly invoking a step-by-step thought process, as implied by the operator's description. The graph now calls `answer_generate` and returns the 'answer' field from its output, which should provide a more reasoned and accurate final answer for extraction, addressing the reasoning errors observed in the logs.",
+    "before": 0.8064516129032258,
+    "after": 0.8709677419354839,
+    "succeed": true
+}
